@@ -1,0 +1,79 @@
+name: Twitch scan
+
+on:
+  schedule:
+    # Hourly across the UK and North American streaming day (UTC).
+    # Times outside this window are dead hours in the target market, so we skip them
+    # to stay inside the free Actions minutes. Widen to "0 * * * *" for every hour.
+    - cron: "0 14-23 * * *"
+    - cron: "0 0-6 * * *"
+  workflow_dispatch:        # lets you trigger a scan by hand from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the database and outputs back
+  issues: write             # needed to open an issue when a scan finds something notable
+
+concurrency:
+  group: twitch-scan        # never let two scans overlap
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Check out the repo (with the database from the last run)
+        uses: actions/checkout@v4
+
+      - name: Build the scanner image
+        run: docker build -t fracton-scanner .
+
+      - name: Run the scan
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+        run: |
+          mkdir -p data
+          docker run --rm \
+            -v "${{ github.workspace }}/data:/data" \
+            -e TWITCH_CLIENT_ID -e TWITCH_CLIENT_SECRET -e ALERT_WEBHOOK_URL \
+            -e KEEP_DAYS=30 \
+            -e GITHUB_STEP_SUMMARY=/data/step_summary.md \
+            fracton-scanner ci
+          sudo chown -R "$USER" data
+          # surface this scan's note on the workflow run page
+          cat data/LATEST.md >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Tell me if the scan found something (opens an issue -> GitHub emails you)
+        if: hashFiles('data/ALERT.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "New Twitch finds - $(date -u '+%d %b %H:%M UTC')" \
+            --body-file data/ALERT.md
+
+      - name: Keep the outputs downloadable for 30 days
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-${{ github.run_number }}
+          path: |
+            data/fracton_streamers.xlsx
+            data/fracton_board.html
+            data/*.csv
+            data/LATEST.md
+          retention-days: 30
+
+      - name: Commit the database, notes and outputs
+        run: |
+          git config user.name "twitch-scanner"
+          git config user.email "actions@github.com"
+          git add -A data
+          git diff --quiet --staged && echo "nothing changed" && exit 0
+          git commit -m "scan $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # another scan may have pushed while this one ran
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break || sleep 10
+          done

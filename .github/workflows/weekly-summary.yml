@@ -1,0 +1,50 @@
+name: Weekly summary
+
+on:
+  schedule:
+    - cron: "0 8 * * MON"   # Monday 08:00 UTC, ahead of the working week
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write             # needed to open the summary issue
+
+jobs:
+  summarise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the scanner image
+        run: docker build -t fracton-scanner .
+
+      - name: Build the weekly summary
+        run: |
+          docker run --rm -v "${{ github.workspace }}/data:/data" \
+            fracton-scanner weekly
+          sudo chown -R "$USER" data
+          test -s data/WEEKLY.md || (echo "No summary produced - no scans this week?" && exit 0)
+
+      - name: Open the issue
+        if: hashFiles('data/WEEKLY.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Twitch scan - week to $(date -u '+%d %b %Y')" \
+            --body-file data/WEEKLY.md \
+            --label "weekly-summary" || \
+          gh issue create \
+            --title "Twitch scan - week to $(date -u '+%d %b %Y')" \
+            --body-file data/WEEKLY.md
+
+      - name: Commit the summary
+        run: |
+          git config user.name "twitch-scanner"
+          git config user.email "actions@github.com"
+          git add -A data
+          git diff --quiet --staged && exit 0
+          git commit -m "weekly summary $(date -u '+%Y-%m-%d')"
+          git pull --rebase --autostash && git push
