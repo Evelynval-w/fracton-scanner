@@ -7,6 +7,7 @@ WORKDIR /app
 COPY streamer_finder_v3.py /app/streamer_finder_v3.py
 
 # Data lives in a mounted volume so the database survives between runs.
+ENV DATA_DIR=/data
 VOLUME ["/data"]
 WORKDIR /data
 

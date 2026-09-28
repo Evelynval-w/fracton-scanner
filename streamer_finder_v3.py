@@ -49,7 +49,8 @@ MAX_PAGES = 400            # safety cap per sweep (100 streams per page)
 REFRESH_CHANNEL_DAYS = 3   # re-fetch follower counts older than this
 # =====================================================================
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+BASE = os.path.abspath(os.environ.get("DATA_DIR",
+                       os.path.dirname(os.path.abspath(__file__))))
 CRED_FILE = os.path.join(BASE, "credentials.json")
 TOKEN_FILE = os.path.join(BASE, "token.json")
 DB_FILE = os.path.join(BASE, "streamers.db")
