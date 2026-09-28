@@ -4,7 +4,7 @@ FROM python:3.12-slim
 RUN pip install --no-cache-dir requests openpyxl
 
 WORKDIR /app
-COPY streamer_finder_v3.py /app/streamer_finder_v3.py
+COPY streamer_finder.py /app/streamer_finder_v3.py
 
 # Data lives in a mounted volume so the database survives between runs.
 VOLUME ["/data"]
