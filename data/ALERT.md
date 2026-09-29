@@ -1,11 +1,11 @@
-Shortlist is now 2070 streamers: 1657 new since the last scan, 0 showing new giveaway or sponsor activity.
+Shortlist is now 2849 streamers: 811 new since the last scan, 1 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[ThePuckington](https://twitch.tv/thepuckington)** - 86/100, UK, 354 followers, 32.7 avg viewers, 9.24% engagement - runs giveaways
-- **[FaeyaKim](https://twitch.tv/faeyakim)** - 75/100, CA, 848 followers, 47 avg viewers, 5.54% engagement - runs giveaways
-- **[theofficialscl](https://twitch.tv/theofficialscl)** - 74/100, UK?, 151 followers, 33 avg viewers, 21.85% engagement
-- **[CptCh405](https://twitch.tv/cptch405)** - 73/100, UK, 440 followers, 48.7 avg viewers, 11.07% engagement
-- **[shoogievt](https://twitch.tv/shoogievt)** - 73/100, CA, 293 followers, 33 avg viewers, 11.26% engagement
+- **[JairoLop3z](https://twitch.tv/jairolop3z)** - 80/100, CA, 884 followers, 58.5 avg viewers, 6.62% engagement - runs giveaways
+- **[AdmiralDamick](https://twitch.tv/admiraldamick)** - 76/100, UK?, 294 followers, 40.5 avg viewers, 13.78% engagement - runs giveaways
+- **[xsawsy](https://twitch.tv/xsawsy)** - 72/100, CA, 1,789 followers, 133.3 avg viewers, 7.45% engagement - runs giveaways
+- **[PinsterWGlasses](https://twitch.tv/pinsterwglasses)** - 70/100, US, 470 followers, 37.7 avg viewers, 8.02% engagement - code VEIN
+- **[PsyKo94](https://twitch.tv/psyko94)** - 67/100, CA, 432 followers, 38.3 avg viewers, 8.87% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
