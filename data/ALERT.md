@@ -1,11 +1,11 @@
-Shortlist is now 5370 streamers: 1616 new since the last scan, 0 showing new giveaway or sponsor activity.
+Shortlist is now 7386 streamers: 2051 new since the last scan, 3 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[marlonmeyers](https://twitch.tv/marlonmeyers)** - 70/100, UK, 169 followers, 45 avg viewers, 26.63% engagement
-- **[BasilOuija](https://twitch.tv/basilouija)** - 69/100, US, 725 followers, 69 avg viewers, 9.52% engagement
-- **[Mormoka](https://twitch.tv/mormoka)** - 69/100, UK, 610 followers, 58 avg viewers, 9.51% engagement
-- **[pwntizzle](https://twitch.tv/pwntizzle)** - 68/100, UK?, 123 followers, 11 avg viewers, 8.94% engagement - runs giveaways
-- **[ChronoBean](https://twitch.tv/chronobean)** - 67/100, CA, 547 followers, 21 avg viewers, 3.84% engagement - runs giveaways
+- **[primd420](https://twitch.tv/primd420)** - 76/100, UK?, 138 followers, 20 avg viewers, 14.49% engagement - runs giveaways
+- **[JasmineJust](https://twitch.tv/jasminejust)** - 70/100, UK, 139 followers, 23 avg viewers, 16.55% engagement
+- **[SerBrator](https://twitch.tv/serbrator)** - 70/100, CA, 607 followers, 30.5 avg viewers, 5.02% engagement - runs giveaways
+- **[SpacemanSpeck](https://twitch.tv/spacemanspeck)** - 69/100, UK?, 433 followers, 33.5 avg viewers, 7.74% engagement - runs giveaways
+- **[RheaChronalis](https://twitch.tv/rheachronalis)** - 68/100, CA, 422 followers, 40 avg viewers, 9.48% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
