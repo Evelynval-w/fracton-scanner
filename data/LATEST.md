@@ -1,56 +1,53 @@
-# Scan 29 Sep 2026 09:12 UTC
+# Scan 29 Sep 2026 19:04 UTC
 
-**3827 on the shortlist** out of 19466 channels tracked, over 4 day(s) of scanning. 641 with confirmed location, 146 running giveaways, 81927 combined live viewers.
+**5370 on the shortlist** out of 21826 channels tracked, over 4 day(s) of scanning. 996 with confirmed location, 193 running giveaways, 112602 combined live viewers.
 
-## New on the shortlist (545)
+## New on the shortlist (1616)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 85 | [8ZnixOG8](https://twitch.tv/8znixog8) | CA | 773 | 79 | 10.22% | giveaways |
-| 65 | [TheNotoriousLion](https://twitch.tv/thenotoriouslion) | CA | 244 | 20 | 8.2% | - |
-| 64 | [Stag](https://twitch.tv/stag) | US | 5,547 | 67 | 1.21% | giveaways, Razer |
-| 64 | [Jr2swishyyy](https://twitch.tv/jr2swishyyy) | CA | 985 | 63 | 6.4% | - |
-| 63 | [locomohsin](https://twitch.tv/locomohsin) | US | 263 | 20.5 | 7.79% | - |
-| 61 | [VonicTTV](https://twitch.tv/vonicttv) | US/CA? | 231 | 35 | 15.15% | - |
-| 61 | [Ultra_Variety](https://twitch.tv/ultra_variety) | US/CA? | 209 | 24.5 | 11.72% | - |
-| 61 | [Scuzzles](https://twitch.tv/scuzzles) | US/CA? | 229 | 24.5 | 10.7% | - |
-| 61 | [RonnieRuckus](https://twitch.tv/ronnieruckus) | US/CA? | 315 | 39 | 12.38% | - |
-| 60 | [codcowboy_](https://twitch.tv/codcowboy_) | US/CA? | 594 | 56.5 | 9.51% | - |
-| 60 | [Shadowpen](https://twitch.tv/shadowpen) | US/CA? | 765 | 74.5 | 9.74% | - |
-| 60 | [ColdDayInHell89](https://twitch.tv/colddayinhell89) | US | 854 | 56 | 6.56% | - |
-| 59 | [NekoFEMC](https://twitch.tv/nekofemc) | US | 142 | 13.3 | 9.37% | - |
-| 59 | [AzulCalavera](https://twitch.tv/azulcalavera) | US/CA? | 281 | 26.5 | 9.43% | - |
-| 59 | [gishyj](https://twitch.tv/gishyj) | US/CA? | 218 | 20.5 | 9.4% | - |
-| 59 | [MrSteJ](https://twitch.tv/mrstej) | UK | 3,789 | 108.5 | 2.86% | giveaways |
-| 58 | [halelikehailtv](https://twitch.tv/halelikehailtv) | UK | 843 | 9 | 1.07% | giveaways, code HALELIKEHAIL |
-| 57 | [RotorBird](https://twitch.tv/rotorbird) | US/CA? | 670 | 59 | 8.81% | - |
-| 57 | [KxtanaDBD](https://twitch.tv/kxtanadbd) | US/CA? | 301 | 26 | 8.64% | - |
-| 56 | [TheDman1289](https://twitch.tv/thedman1289) | US/CA? | 136 | 15 | 11.03% | - |
-| 56 | [Tiwborn](https://twitch.tv/tiwborn) | US | 419 | 22 | 5.25% | - |
-| 56 | [bri_stari](https://twitch.tv/bri_stari) | US/CA? | 134 | 14.5 | 10.82% | - |
-| 56 | [AishMaGaish](https://twitch.tv/aishmagaish) | US/CA? | 111 | 18.5 | 16.67% | - |
-| 56 | [oHayabuza](https://twitch.tv/ohayabuza) | US | 147 | 10.5 | 7.14% | - |
-| 56 | [wDadBot](https://twitch.tv/wdadbot) | US/CA? | 1,571 | 23.5 | 1.5% | giveaways, code WDADBOT |
-
-## Newly spotted giveaway or sponsor activity (1)
-- **wzjulian** started advertising a giveaway - WIPE DAY MIGHT GIVEAWAY SHIT IDK 55/65 subs | !pc !lurk !id !yt
+| 70 | [marlonmeyers](https://twitch.tv/marlonmeyers) | UK | 169 | 45 | 26.63% | - |
+| 69 | [BasilOuija](https://twitch.tv/basilouija) | US | 725 | 69 | 9.52% | - |
+| 69 | [Mormoka](https://twitch.tv/mormoka) | UK | 610 | 58 | 9.51% | - |
+| 68 | [pwntizzle](https://twitch.tv/pwntizzle) | UK? | 123 | 11 | 8.94% | giveaways |
+| 67 | [ChronoBean](https://twitch.tv/chronobean) | CA | 547 | 21 | 3.84% | giveaways |
+| 67 | [JaegerPush](https://twitch.tv/jaegerpush) | CA | 360 | 32.5 | 9.03% | - |
+| 66 | [JiggleLittle](https://twitch.tv/jigglelittle) | UK | 1,253 | 48 | 3.83% | giveaways |
+| 66 | [deeveeaar](https://twitch.tv/deeveeaar) | UK? | 181 | 19 | 10.5% | Streamlabs |
+| 65 | [Dody_UwU](https://twitch.tv/dody_uwu) | US | 102 | 13 | 12.75% | - |
+| 65 | [Fluxor_1](https://twitch.tv/fluxor_1) | UK | 100 | 5 | 5.0% | giveaways |
+| 63 | [UniqueBovine](https://twitch.tv/uniquebovine) | UK | 1,367 | 35.5 | 2.6% | giveaways |
+| 62 | [TexasChainsawManager](https://twitch.tv/texaschainsawmanager) | US | 322 | 24 | 7.45% | - |
+| 62 | [Duskdgn](https://twitch.tv/duskdgn) | UK | 246 | 21 | 8.54% | - |
+| 62 | [SlyAceZeta](https://twitch.tv/slyacezeta) | UK? | 791 | 42 | 5.31% | giveaways |
+| 61 | [olygg7](https://twitch.tv/olygg7) | UK? | 775 | 97.7 | 12.61% | - |
+| 61 | [sam_basic](https://twitch.tv/sam_basic) | UK? | 274 | 36.3 | 13.25% | - |
+| 61 | [Cazabella13](https://twitch.tv/cazabella13) | UK? | 215 | 44 | 20.47% | - |
+| 61 | [fozzii_fps](https://twitch.tv/fozzii_fps) | UK | 1,026 | 20 | 1.95% | giveaways |
+| 61 | [watt7274](https://twitch.tv/watt7274) | UK? | 236 | 24 | 10.17% | - |
+| 61 | [Wolfe_Guard](https://twitch.tv/wolfe_guard) | US | 611 | 21.7 | 3.55% | Razer |
+| 61 | [ArgonSurgerunner](https://twitch.tv/argonsurgerunner) | UK? | 187 | 25 | 13.37% | - |
+| 61 | [AnimeloverNightslayer](https://twitch.tv/animelovernightslayer) | UK? | 179 | 53.3 | 29.78% | - |
+| 61 | [itzl3g3nd](https://twitch.tv/itzl3g3nd) | UK? | 336 | 46.5 | 13.84% | - |
+| 61 | [Lwet_](https://twitch.tv/lwet_) | UK? | 202 | 24.5 | 12.13% | - |
+| 61 | [yuwuki_nya](https://twitch.tv/yuwuki_nya) | UK? | 266 | 26.5 | 9.96% | - |
 
 ## Score moves
-- wzjulian: 40 -> 61 (up), 15 avg viewers, 3 days live
-- TheTimmy_TV: 38 -> 52 (up), 28 avg viewers, 3 days live
-- mdttrader: 31 -> 45 (up), 5.7 avg viewers, 3 days live
-- Tayhardtimes: 42 -> 55 (up), 8 avg viewers, 3 days live
-- Kroboo: 32 -> 45 (up), 30 avg viewers, 3 days live
-- TheSneakyGecko: 34 -> 46 (up), 23 avg viewers, 3 days live
-- evflashy: 31 -> 43 (up), 20.3 avg viewers, 3 days live
-- EsseCoisa: 59 -> 70 (up), 21.6 avg viewers, 3 days live
-- RiftImpy: 33 -> 44 (up), 21.3 avg viewers, 3 days live
-- FleurDsang: 35 -> 45 (up), 20.7 avg viewers, 2 days live
-- Leggomyeggro11: 28 -> 38 (up), 25.3 avg viewers, 3 days live
-- CrazyMohawk74: 54 -> 63 (up), 15.3 avg viewers, 2 days live
-- fatc_dl: 43 -> 52 (up), 38.6 avg viewers, 4 days live
-- Shaneisclassy: 27 -> 36 (up), 15 avg viewers, 2 days live
-- FalconFury74: 34 -> 42 (up), 18.3 avg viewers, 3 days live
+- TheFoxButt: 30 -> 48 (up), 20 avg viewers, 3 days live
+- BrewToss: 43 -> 58 (up), 37.3 avg viewers, 3 days live
+- RoboticTart: 40 -> 52 (up), 80 avg viewers, 3 days live
+- BadTasteBear: 53 -> 64 (up), 24.7 avg viewers, 3 days live
+- SpiriKiri_: 42 -> 53 (up), 21 avg viewers, 3 days live
+- Misenica: 37 -> 48 (up), 20.2 avg viewers, 3 days live
+- ThuhBigA: 28 -> 39 (up), 29.5 avg viewers, 3 days live
+- ZEOXIN: 26 -> 37 (up), 20.3 avg viewers, 3 days live
+- Jamejarrs: 32 -> 42 (up), 77 avg viewers, 3 days live
+- HeyMeliora: 58 -> 66 (up), 26 avg viewers, 3 days live
+- ManofAluminium: 39 -> 47 (up), 8.3 avg viewers, 3 days live
+- MajorKryme: 69 -> 76 (up), 29.8 avg viewers, 3 days live
+- CoffeeFreak7: 57 -> 64 (up), 34.8 avg viewers, 3 days live
+- sleeze: 55 -> 62 (up), 75 avg viewers, 3 days live
+- chicastwin: 49 -> 56 (up), 15.7 avg viewers, 3 days live
 
-## Dropped off (39)
-710bren, alex__phant0m, AlisonAdventures, AverymayRae, bellxyn, cosmicastrea, djswrld, eadriaticleague3, ethan_png, FinalFantasyVIIITv, GlockStayTokin, GuruDitta, Hessviin, HolyWR, itzArisu, JEFROOO, JiaKimchi, julieleeloulives, Kare4Kittens, KeedaCottonTail, Keshi, KittyWubsDub, kunikxnt, LOSOtheHoKagE, meowwody, MikeyBabyJr, MolxyTV, noroachjetson, PapaChillin, pixieebub, plasmito_, RawRat22, rpggurl4life, saguakitty, SirenSeas, StealthJT_, sxmuel, ThorasLXXIV, wildout86_ttv
+## Dropped off (73)
+Ahsokaa_Moon, alicealcza, AliixandreOG, Amprov, AnthonyBourdain_TV, Arozay, asaveq, billy_joke, blossombbg, bludfarts666, Brewz3r, ChipMunkPlayzzzz, CornCobGirl, CowboyBeto, Daws47VR, DepthSkyy, Doit2um_PFK, Dora_Playz_, duckchapstick, epoch_smog, Faithryn_VT, ForeverMoso, goatteddior, goldenchambers19, handosassistant, hobo_bill1, Jinhii, Jr2swishyyy, kisimov, LadySteph_, Lexadoodle, maxim2224, memo_randy, mintthiefow, mixonelion, MsMeltdownNN, NineVolt_9V, novaistaken, nyxarya, Off_The_Chain_
