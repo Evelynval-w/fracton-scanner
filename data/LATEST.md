@@ -1,56 +1,53 @@
-# Scan 29 Sep 2026 00:48 UTC
+# Scan 29 Sep 2026 03:00 UTC
 
-**2849 on the shortlist** out of 13433 channels tracked, over 4 day(s) of scanning. 474 with confirmed location, 117 running giveaways, 59688 combined live viewers.
+**3321 on the shortlist** out of 17773 channels tracked, over 4 day(s) of scanning. 538 with confirmed location, 127 running giveaways, 68885 combined live viewers.
 
-## New on the shortlist (811)
+## New on the shortlist (504)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 80 | [JairoLop3z](https://twitch.tv/jairolop3z) | CA | 884 | 58.5 | 6.62% | giveaways |
-| 76 | [AdmiralDamick](https://twitch.tv/admiraldamick) | UK? | 294 | 40.5 | 13.78% | giveaways |
-| 72 | [xsawsy](https://twitch.tv/xsawsy) | CA | 1,789 | 133.3 | 7.45% | giveaways |
-| 70 | [PinsterWGlasses](https://twitch.tv/pinsterwglasses) | US | 470 | 37.7 | 8.02% | code VEIN |
-| 67 | [PsyKo94](https://twitch.tv/psyko94) | CA | 432 | 38.3 | 8.87% | - |
-| 66 | [RitsuneKyu](https://twitch.tv/ritsunekyu) | US/CA? | 931 | 123.5 | 13.27% | - |
-| 65 | [megarightjim](https://twitch.tv/megarightjim) | UK | 124 | 6 | 4.84% | giveaways |
-| 63 | [DV94_](https://twitch.tv/dv94_) | UK | 911 | 39.5 | 4.34% | code VERONICA |
-| 62 | [Crisendo](https://twitch.tv/crisendo) | UK | 319 | 23 | 7.21% | - |
-| 61 | [lvuly](https://twitch.tv/lvuly) | UK? | 188 | 40.3 | 21.44% | - |
-| 61 | [XinPingGoon](https://twitch.tv/xinpinggoon) | UK? | 232 | 33.3 | 14.35% | - |
-| 61 | [kaiaoz](https://twitch.tv/kaiaoz) | UK? | 351 | 41.5 | 11.82% | - |
-| 61 | [karl_jr23](https://twitch.tv/karl_jr23) | UK? | 154 | 21 | 13.64% | - |
-| 61 | [Zansicora](https://twitch.tv/zansicora) | UK? | 260 | 29 | 11.15% | - |
-| 60 | [NLbawz](https://twitch.tv/nlbawz) | UK | 2,857 | 47.5 | 1.66% | giveaways |
-| 58 | [idkwhatodo](https://twitch.tv/idkwhatodo) | UK? | 235 | 21 | 8.94% | - |
-| 58 | [Veyrov](https://twitch.tv/veyrov) | UK? | 183 | 10.5 | 5.74% | giveaways |
-| 57 | [SuperSonico_008](https://twitch.tv/supersonico_008) | UK | 159 | 11.7 | 7.36% | - |
-| 56 | [LuvellaLive](https://twitch.tv/luvellalive) | UK? | 1,798 | 89 | 4.95% | giveaways |
-| 56 | [imageryhurts](https://twitch.tv/imageryhurts) | UK? | 243 | 20 | 8.23% | - |
-| 56 | [BiformGames](https://twitch.tv/biformgames) | CA | 614 | 12 | 1.95% | giveaways |
-| 56 | [Pugman296](https://twitch.tv/pugman296) | UK? | 719 | 96 | 13.35% | - |
-| 56 | [Infinite_Tee](https://twitch.tv/infinite_tee) | US | 164 | 13.5 | 8.23% | - |
-| 56 | [MikeOff1500](https://twitch.tv/mikeoff1500) | US/CA? | 454 | 83 | 18.28% | - |
-| 56 | [DistintivoLive](https://twitch.tv/distintivolive) | UK? | 158 | 103.5 | 65.51% | - |
-
-## Newly spotted giveaway or sponsor activity (1)
-- **d2kariya** started advertising a giveaway - QUICK S.O.J RAFFLE
+| 71 | [mixonelion](https://twitch.tv/mixonelion) | US/CA? | 455 | 54.5 | 11.98% | - |
+| 71 | [AverymayRae](https://twitch.tv/averymayrae) | US/CA? | 310 | 37.4 | 12.06% | - |
+| 61 | [flexsterdashootatv](https://twitch.tv/flexsterdashootatv) | UK? | 326 | 44.8 | 13.74% | - |
+| 61 | [phoebes7](https://twitch.tv/phoebes7) | US/CA? | 238 | 45 | 18.91% | - |
+| 61 | [Immortality_LIVE](https://twitch.tv/immortality_live) | US/CA? | 229 | 40 | 17.47% | - |
+| 61 | [bunnysprout](https://twitch.tv/bunnysprout) | US/CA? | 186 | 24 | 12.9% | - |
+| 59 | [artdecayslive](https://twitch.tv/artdecayslive) | US/CA? | 355 | 33 | 9.3% | - |
+| 57 | [chapnea](https://twitch.tv/chapnea) | US/CA? | 382 | 32.5 | 8.51% | - |
+| 56 | [SnickerD0odle](https://twitch.tv/snickerd0odle) | US/CA? | 1,069 | 123 | 11.51% | - |
+| 56 | [NazzAgain](https://twitch.tv/nazzagain) | US/CA? | 1,039 | 85 | 8.18% | - |
+| 56 | [ghelblol](https://twitch.tv/ghelblol) | US | 803 | 54.5 | 6.79% | - |
+| 56 | [YouFrowned](https://twitch.tv/youfrowned) | UK | 1,140 | 22 | 1.93% | - |
+| 56 | [tamagucci_gg](https://twitch.tv/tamagucci_gg) | US/CA? | 107 | 14.5 | 13.55% | - |
+| 56 | [PheonixKit](https://twitch.tv/pheonixkit) | US/CA? | 707 | 107.5 | 15.21% | - |
+| 55 | [Ceko_ABI](https://twitch.tv/ceko_abi) | US | 175 | 14 | 8.0% | - |
+| 55 | [itzArisu](https://twitch.tv/itzarisu) | UK | 762 | 37.5 | 4.92% | - |
+| 54 | [ayitixo](https://twitch.tv/ayitixo) | US | 1,714 | 20.5 | 1.2% | - |
+| 54 | [ViToDEE](https://twitch.tv/vitodee) | UK | 643 | 7.5 | 1.17% | giveaways |
+| 54 | [Twenty5Owls](https://twitch.tv/twenty5owls) | US/CA? | 387 | 16.5 | 4.26% | giveaways |
+| 54 | [danphergd](https://twitch.tv/danphergd) | US/CA? | 339 | 26.5 | 7.82% | - |
+| 54 | [bubblezvt](https://twitch.tv/bubblezvt) | US | 109 | 8.5 | 7.8% | - |
+| 54 | [CrazyMohawk74](https://twitch.tv/crazymohawk74) | US/CA? | 169 | 10 | 5.92% | code STAR |
+| 53 | [Spekspocksss](https://twitch.tv/spekspocksss) | US/CA? | 286 | 11.5 | 4.02% | giveaways |
+| 52 | [PrettyAndPadded](https://twitch.tv/prettyandpadded) | US/CA? | 341 | 23.5 | 6.89% | - |
+| 51 | [LydCatChan](https://twitch.tv/lydcatchan) | US | 1,466 | 26.3 | 1.79% | - |
 
 ## Score moves
-- d2kariya: 36 -> 50 (up), 12.3 avg viewers, 2 days live
-- stiffcreations: 62 -> 72 (up), 22 avg viewers, 2 days live
-- SerenVT: 36 -> 44 (up), 6.5 avg viewers, 2 days live
-- dy_dk: 35 -> 41 (up), 76 avg viewers, 3 days live
-- Mister_Krinkle: 57 -> 62 (up), 22 avg viewers, 2 days live
-- stepbrobuss: 80 -> 75 (down), 31.3 avg viewers, 3 days live
-- Sw33tStarla: 63 -> 58 (down), 50.8 avg viewers, 3 days live
-- KyngKiino: 60 -> 55 (down), 82 avg viewers, 3 days live
-- weather_watcher3: 60 -> 55 (down), 12.2 avg viewers, 3 days live
-- RyTheRiot: 56 -> 51 (down), 20.2 avg viewers, 3 days live
-- nopoee: 55 -> 50 (down), 8.3 avg viewers, 3 days live
-- GiddyGila: 55 -> 50 (down), 24.7 avg viewers, 2 days live
-- vlady_hs: 53 -> 48 (down), 119.3 avg viewers, 2 days live
-- MP5Five: 48 -> 43 (down), 54.6 avg viewers, 2 days live
-- fatc_dl: 48 -> 43 (down), 25.5 avg viewers, 3 days live
+- c0lintrapernick: 55 -> 66 (up), 9.7 avg viewers, 3 days live
+- SkinnyLegend_ow: 35 -> 45 (up), 23 avg viewers, 2 days live
+- dixinseller: 35 -> 44 (up), 22 avg viewers, 2 days live
+- ZodienTV: 28 -> 37 (up), 37.2 avg viewers, 2 days live
+- DJ_TAKEN_OVER: 33 -> 41 (up), 69.3 avg viewers, 3 days live
+- ToffeeTortoise: 47 -> 54 (up), 20.3 avg viewers, 2 days live
+- evangelist___: 43 -> 50 (up), 134.8 avg viewers, 2 days live
+- EsseCoisa: 53 -> 59 (up), 16.2 avg viewers, 3 days live
+- BenjiTheCollie: 40 -> 46 (up), 20.7 avg viewers, 2 days live
+- ClxtchyTV: 34 -> 40 (up), 26 avg viewers, 3 days live
+- Salisky_: 30 -> 36 (up), 15 avg viewers, 3 days live
+- Lo0nex_: 29 -> 35 (up), 22.7 avg viewers, 2 days live
+- leg1tsold1er: 29 -> 35 (up), 10.7 avg viewers, 3 days live
+- sunstonefire: 28 -> 34 (up), 22.4 avg viewers, 2 days live
+- NaturE: 26 -> 32 (up), 21.5 avg viewers, 2 days live
 
 ## Dropped off (32)
-AlmawtAltaninTDH, andreatobonn, bestestcreaturesallowed, BLUUUEPRINCESS, BoxBox3122, brolabunny, ccarolyy, deeehoC, droweed420, emniag, foogatti, izzy_kinda, jtsracingtv, KinG_PeroX, lajodyy, LevelUpSquid, LordShenlongTTV, mikvsl, minion_mommy, msjuicyjuice_69, Nadxa, NateKarama, Perish_VS, phiacepha, qttmal, randy_121, skytwitching, TxTacticalTism, Varmell, veyranova, vikchun, VioletMystery4ever
+4chanchan, AlyonaKarakov, AnthonyRocks5757, BeartheWitch_, BwianSZN, CourtnissEverdean, Davoots, DistintivoLive, dokidokiboii, GretaIceVixen, ItsSoFluffie, JackTBP, Jmizzyy, Jones9, Ken_WSG, kittenasylum420, Kor_VT, Massacre_NL, mima_radio, minascape, mrllamacr, NapWRLD, OliviaTheOGtt, paiidwiill, PoGoTipsOfficial, ReddTTV, smokeyim2fried, teckley, TexasNewsStudioTV, TheHighWizard1, TheWorldBirdSanctuary, z4ch_ow
