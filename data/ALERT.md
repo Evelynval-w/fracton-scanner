@@ -1,11 +1,11 @@
-Shortlist is now 7386 streamers: 2051 new since the last scan, 3 showing new giveaway or sponsor activity.
+Shortlist is now 9470 streamers: 2195 new since the last scan, 1 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[primd420](https://twitch.tv/primd420)** - 76/100, UK?, 138 followers, 20 avg viewers, 14.49% engagement - runs giveaways
-- **[JasmineJust](https://twitch.tv/jasminejust)** - 70/100, UK, 139 followers, 23 avg viewers, 16.55% engagement
-- **[SerBrator](https://twitch.tv/serbrator)** - 70/100, CA, 607 followers, 30.5 avg viewers, 5.02% engagement - runs giveaways
-- **[SpacemanSpeck](https://twitch.tv/spacemanspeck)** - 69/100, UK?, 433 followers, 33.5 avg viewers, 7.74% engagement - runs giveaways
-- **[RheaChronalis](https://twitch.tv/rheachronalis)** - 68/100, CA, 422 followers, 40 avg viewers, 9.48% engagement
+- **[BotchParty](https://twitch.tv/botchparty)** - 77/100, US, 776 followers, 62.5 avg viewers, 8.05% engagement - runs giveaways
+- **[killa4KT](https://twitch.tv/killa4kt)** - 69/100, UK?, 263 followers, 54 avg viewers, 20.53% engagement - code KILLA4KT
+- **[MuiquunBDO](https://twitch.tv/muiquunbdo)** - 69/100, UK?, 152 followers, 21 avg viewers, 13.82% engagement
+- **[sgtxnachos](https://twitch.tv/sgtxnachos)** - 68/100, US, 143 followers, 37 avg viewers, 25.87% engagement
+- **[CorsairEsports](https://twitch.tv/corsairesports)** - 65/100, US, 265 followers, 19.5 avg viewers, 7.36% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.

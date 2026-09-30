@@ -1,58 +1,56 @@
-# Scan 29 Sep 2026 22:57 UTC
+# Scan 30 Sep 2026 01:50 UTC
 
-**7386 on the shortlist** out of 24621 channels tracked, over 4 day(s) of scanning. 1254 with confirmed location, 253 running giveaways, 151320 combined live viewers.
+**9470 on the shortlist** out of 28645 channels tracked, over 5 day(s) of scanning. 1505 with confirmed location, 301 running giveaways, 189223 combined live viewers.
 
-## New on the shortlist (2051)
+## New on the shortlist (2195)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 76 | [primd420](https://twitch.tv/primd420) | UK? | 138 | 20 | 14.49% | giveaways |
-| 70 | [JasmineJust](https://twitch.tv/jasminejust) | UK | 139 | 23 | 16.55% | - |
-| 70 | [SerBrator](https://twitch.tv/serbrator) | CA | 607 | 30.5 | 5.02% | giveaways |
-| 69 | [SpacemanSpeck](https://twitch.tv/spacemanspeck) | UK? | 433 | 33.5 | 7.74% | giveaways |
-| 68 | [RheaChronalis](https://twitch.tv/rheachronalis) | CA | 422 | 40 | 9.48% | - |
-| 67 | [ThatBMadss](https://twitch.tv/thatbmadss) | UK? | 702 | 50 | 7.12% | giveaways |
-| 65 | [pellisTV](https://twitch.tv/pellistv) | UK | 101 | 11 | 10.89% | - |
-| 65 | [AgentJokerVT](https://twitch.tv/agentjokervt) | UK? | 391 | 24.5 | 6.27% | giveaways |
-| 64 | [suikapann_](https://twitch.tv/suikapann_) | UK | 436 | 34.3 | 7.87% | - |
-| 63 | [Mikepaws](https://twitch.tv/mikepaws) | UK | 1,045 | 79.5 | 7.61% | - |
-| 62 | [PinkPandaFPS](https://twitch.tv/pinkpandafps) | UK? | 548 | 28.5 | 5.2% | giveaways |
-| 61 | [TheMilkmen76](https://twitch.tv/themilkmen76) | UK? | 547 | 60.3 | 11.02% | - |
-| 61 | [happy8victor](https://twitch.tv/happy8victor) | UK? | 143 | 66.3 | 46.36% | - |
-| 61 | [jdyogaming](https://twitch.tv/jdyogaming) | UK? | 429 | 57 | 13.29% | - |
-| 61 | [SanaSnarly](https://twitch.tv/sanasnarly) | UK? | 442 | 62 | 14.03% | - |
-| 61 | [XyloxTTV](https://twitch.tv/xyloxttv) | UK? | 155 | 27 | 17.42% | - |
-| 61 | [ojitosIindos](https://twitch.tv/ojitosiindos) | UK? | 293 | 38 | 12.97% | - |
-| 61 | [MaladethTV](https://twitch.tv/maladethtv) | UK? | 206 | 24 | 11.65% | - |
-| 61 | [icetypeJulia](https://twitch.tv/icetypejulia) | UK? | 202 | 25.5 | 12.62% | - |
-| 61 | [Kira24iw](https://twitch.tv/kira24iw) | UK? | 156 | 26.5 | 16.99% | - |
-| 61 | [Clawra_The_Explorer](https://twitch.tv/clawra_the_explorer) | UK? | 140 | 22.5 | 16.07% | - |
-| 61 | [KlonoaVT](https://twitch.tv/klonoavt) | UK? | 197 | 31 | 15.74% | - |
-| 61 | [Deco_gt](https://twitch.tv/deco_gt) | UK? | 249 | 53 | 21.29% | - |
-| 61 | [shiestyheem](https://twitch.tv/shiestyheem) | UK? | 348 | 66 | 18.97% | - |
-| 61 | [VeinyAngus](https://twitch.tv/veinyangus) | UK? | 300 | 38 | 12.67% | - |
+| 77 | [BotchParty](https://twitch.tv/botchparty) | US | 776 | 62.5 | 8.05% | giveaways |
+| 69 | [killa4KT](https://twitch.tv/killa4kt) | UK? | 263 | 54 | 20.53% | code KILLA4KT |
+| 69 | [MuiquunBDO](https://twitch.tv/muiquunbdo) | UK? | 152 | 21 | 13.82% | - |
+| 68 | [sgtxnachos](https://twitch.tv/sgtxnachos) | US | 143 | 37 | 25.87% | - |
+| 65 | [CorsairEsports](https://twitch.tv/corsairesports) | US | 265 | 19.5 | 7.36% | Corsair |
+| 64 | [Harpocrates_Mouthpiece](https://twitch.tv/harpocrates_mouthpiece) | US | 292 | 32.7 | 11.2% | - |
+| 64 | [kheaaplays](https://twitch.tv/kheaaplays) | US | 131 | 22.7 | 17.33% | - |
+| 64 | [MrGamble_](https://twitch.tv/mrgamble_) | US | 285 | 36.5 | 12.81% | - |
+| 63 | [EizokuShiVT](https://twitch.tv/eizokushivt) | CA | 140 | 14 | 10.0% | - |
+| 63 | [PascalRockMusic](https://twitch.tv/pascalrockmusic) | CA | 177 | 18 | 10.17% | - |
+| 61 | [TheDaisy1Maisy](https://twitch.tv/thedaisy1maisy) | CA | 1,385 | 37.5 | 2.71% | giveaways |
+| 60 | [Nex_Incendiary](https://twitch.tv/nex_incendiary) | CA | 7,036 | 38.2 | 0.54% | giveaways, code GIVE |
+| 60 | [RobLapham](https://twitch.tv/roblapham) | CA | 2,538 | 55 | 2.17% | giveaways |
+| 60 | [tsskingsman](https://twitch.tv/tsskingsman) | CA | 2,017 | 50 | 2.48% | giveaways |
+| 60 | [McF1lthy](https://twitch.tv/mcf1lthy) | US/CA? | 373 | 20.5 | 5.5% | giveaways |
+| 60 | [Eratub](https://twitch.tv/eratub) | CA | 129 | 11.5 | 8.91% | - |
+| 59 | [ColdPhazon](https://twitch.tv/coldphazon) | US | 7,144 | 20 | 0.28% | giveaways, code LATER |
+| 59 | [BuckIsland](https://twitch.tv/buckisland) | UK? | 475 | 70 | 14.74% | - |
+| 59 | [badmansniper_](https://twitch.tv/badmansniper_) | UK? | 220 | 51.3 | 23.32% | - |
+| 59 | [RoboBravado](https://twitch.tv/robobravado) | UK? | 260 | 27 | 10.38% | - |
+| 59 | [Chazelton41](https://twitch.tv/chazelton41) | US/CA? | 114 | 22.5 | 19.74% | - |
+| 59 | [kuhisecos](https://twitch.tv/kuhisecos) | US | 108 | 19.3 | 17.87% | - |
+| 59 | [Probbnatee](https://twitch.tv/probbnatee) | US/CA? | 454 | 22.7 | 5.0% | giveaways |
+| 59 | [KingEgo_](https://twitch.tv/kingego_) | UK? | 182 | 29.5 | 16.21% | - |
+| 59 | [spamantha80](https://twitch.tv/spamantha80) | US/CA? | 201 | 21 | 10.45% | - |
 
-## Newly spotted giveaway or sponsor activity (3)
-- **TheLegendary117** started advertising a giveaway - Charity Stream, Gamers Outreach 🥳 Donate $1, You're entered into the raffle, 12 MONTHS OF XBOX GAME PASS ULTIMATE💚
-- **oliviascozydreams** started advertising a giveaway - 🌟DROPS🌟GIVEAWAY!!! Happy Frights & Delights Spiritfest Update Day!! Let's Bug Lure + Vibe & Conquer The Board!!!🌟
-- **theegoodestgoy** started advertising a giveaway - Chud Giveaway In !discord | Og Acc Back!!!!
+## Newly spotted giveaway or sponsor activity (1)
+- **higesrain** started advertising a giveaway - |18+|Day 29 of RAINTEMBER!|1 Day Till My Birthday!|!pp|!girth|!cheese|!feral|Subs/gifted subs get wheel spin for chaos!|
 
 ## Score moves
-- OniTony_: 37 -> 66 (up), 48.7 avg viewers, 3 days live
-- TheLegendary117: 37 -> 57 (up), 27.2 avg viewers, 3 days live
-- oliviascozydreams: 34 -> 54 (up), 22.8 avg viewers, 3 days live
-- theegoodestgoy: 30 -> 50 (up), 7 avg viewers, 3 days live
-- tiny_olive: 45 -> 61 (up), 25.3 avg viewers, 2 days live
-- AimFix: 53 -> 67 (up), 54.3 avg viewers, 3 days live
-- chefhoneybee: 41 -> 55 (up), 22 avg viewers, 2 days live
-- Veyrov: 58 -> 71 (up), 15 avg viewers, 3 days live
-- facewarm: 48 -> 61 (up), 23.3 avg viewers, 3 days live
-- pnuyy: 36 -> 49 (up), 21.7 avg viewers, 3 days live
-- KarlKtheDJ: 35 -> 48 (up), 22.2 avg viewers, 3 days live
-- linavalentines: 30 -> 43 (up), 11.5 avg viewers, 3 days live
-- AYEEFFKAYtv: 28 -> 40 (up), 22 avg viewers, 3 days live
-- QTSim: 39 -> 50 (up), 20 avg viewers, 3 days live
-- CrotchComet: 34 -> 45 (up), 25 avg viewers, 2 days live
+- NelsoKelso: 38 -> 58 (up), 26.3 avg viewers, 2 days live
+- higesrain: 39 -> 51 (up), 16.4 avg viewers, 3 days live
+- AscheGaming: 36 -> 48 (up), 7.3 avg viewers, 3 days live
+- stiffcreations: 69 -> 78 (up), 27 avg viewers, 3 days live
+- doobylive: 28 -> 36 (up), 20.7 avg viewers, 3 days live
+- chrisleesin: 42 -> 49 (up), 20.2 avg viewers, 3 days live
+- WhyteLyte_: 39 -> 46 (up), 21.2 avg viewers, 2 days live
+- clemstime: 39 -> 46 (up), 20.3 avg viewers, 2 days live
+- Shroomaah: 30 -> 37 (up), 36.8 avg viewers, 2 days live
+- BarrelRollFox: 48 -> 54 (up), 18.3 avg viewers, 2 days live
+- theFlood: 38 -> 44 (up), 75 avg viewers, 3 days live
+- DJ_SirBlaze: 41 -> 46 (up), 59.3 avg viewers, 3 days live
+- Mikepaws: 63 -> 58 (down), 68.7 avg viewers, 2 days live
+- NyxaraCasting: 61 -> 56 (down), 47.7 avg viewers, 2 days live
+- InGravyWeTrust: 59 -> 54 (down), 6.5 avg viewers, 4 days live
 
-## Dropped off (35)
-00lexxx, aarondeavor, apollohacky, artdecayslive, ARTHURLiTO01, BananaOW2, Baumyttv, bluebirdge, DarthVapes_, DeMoersel, desqera, drtyeyeball, eatinpizzarn, Ham_Boiguh, itzwakka, jorosue, kannastor84, kitsunewolfkit, Kohdei, Lavishsaylesss, lightsoverlaplandlive, MikeOff1500, NazzAgain, Neogreg, On3ShotL3gend, pikacourt, pwntizzle, R0iTempest, Ricky_Smoove, SayerBrent, SkinnyLegend_ow, sweethoneybunns, TenCatChronicles, Terrastormer, venwave
+## Dropped off (111)
+1dvsbtsd, aSuperFruit, BlueburryKay, Branden, brl_chacal, BunnyVA_ASMR, CaedVT, CaptainHoneypot, CATFish_ALEX, chapnea, cheg0, chinowhatimean, CritPirate, cryophim, cvpidsangel, Dabqueen0_0, DavidComic, Drid, Dubcity412, eastcoastwolf, eazemoneyy, Emmapwnu, four_a_reason, foxivixen, gamehex123, greuka_, Gucci_Gainz, H3RM3I, hanuhz, HollowSHG, iam_to_zesty, IronyLost, JADmanz, JakeTwitchin, jasxoxo23, JJaidens, JoshFlowers, JROBtheFinesser, jsttrynawin, Jubie52
