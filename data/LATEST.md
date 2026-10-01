@@ -1,56 +1,59 @@
-# Scan 01 Oct 2026 02:46 UTC
+# Scan 01 Oct 2026 09:31 UTC
 
-**17780 on the shortlist** out of 48785 channels tracked, over 6 day(s) of scanning. 2657 with confirmed location, 577 running giveaways, 332476 combined live viewers.
+**18158 on the shortlist** out of 49991 channels tracked, over 6 day(s) of scanning. 2731 with confirmed location, 596 running giveaways, 341326 combined live viewers.
 
-## New on the shortlist (1321)
+## New on the shortlist (441)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 73 | [Z1Rracing](https://twitch.tv/z1rracing) | US/CA? | 402 | 41.5 | 10.32% | giveaways |
-| 68 | [RyRunThaMan](https://twitch.tv/ryrunthaman) | UK? | 108 | 12.5 | 11.57% | giveaways |
-| 64 | [sagine001](https://twitch.tv/sagine001) | US/CA? | 241 | 46.4 | 19.25% | - |
-| 63 | [TweakBobb](https://twitch.tv/tweakbobb) | US | 562 | 62 | 11.03% | - |
-| 61 | [stuartbyers1982](https://twitch.tv/stuartbyers1982) | US/CA? | 300 | 30.2 | 10.07% | - |
-| 61 | [TwoShotsb2](https://twitch.tv/twoshotsb2) | UK? | 1,821 | 142.5 | 7.83% | giveaways |
-| 58 | [CosyPeets](https://twitch.tv/cosypeets) | UK | 4,364 | 47 | 1.08% | giveaways |
-| 58 | [katydidzzz](https://twitch.tv/katydidzzz) | US/CA? | 130 | 31.5 | 24.23% | - |
-| 58 | [Caffefiend](https://twitch.tv/caffefiend) | US/CA? | 178 | 23 | 12.92% | - |
-| 58 | [NikoAmiko](https://twitch.tv/nikoamiko) | US/CA? | 283 | 28.5 | 10.07% | - |
-| 58 | [WhammySammy19](https://twitch.tv/whammysammy19) | US/CA? | 127 | 8.5 | 6.69% | giveaways |
-| 58 | [ItzJustTra3](https://twitch.tv/itzjusttra3) | US/CA? | 124 | 49 | 39.52% | - |
-| 58 | [elPsyCraft](https://twitch.tv/elpsycraft) | US/CA? | 193 | 22.5 | 11.66% | - |
-| 56 | [thenia99](https://twitch.tv/thenia99) | US/CA? | 306 | 104.2 | 34.05% | - |
-| 56 | [CozyContessa](https://twitch.tv/cozycontessa) | US | 2,266 | 61.5 | 2.71% | giveaways |
-| 56 | [LiariWasTaken](https://twitch.tv/liariwastaken) | UK | 167 | 13.7 | 8.2% | - |
-| 55 | [AurynAyahna](https://twitch.tv/aurynayahna) | US/CA? | 403 | 37 | 9.18% | - |
-| 55 | [KibbleTheGoat](https://twitch.tv/kibblethegoat) | US/CA? | 1,088 | 43.3 | 3.98% | giveaways |
-| 54 | [Rezadius](https://twitch.tv/rezadius) | UK? | 766 | 66 | 8.62% | - |
-| 54 | [Nyaniji](https://twitch.tv/nyaniji) | US | 1,005 | 71.7 | 7.13% | - |
-| 54 | [GidgetGames3](https://twitch.tv/gidgetgames3) | US/CA? | 1,502 | 57.2 | 3.81% | giveaways |
-| 53 | [helenizback](https://twitch.tv/helenizback) | US/CA? | 281 | 14.5 | 5.16% | giveaways |
-| 53 | [HamandLizGaming](https://twitch.tv/hamandlizgaming) | US | 1,281 | 25.2 | 1.97% | - |
-| 53 | [FaolonRose](https://twitch.tv/faolonrose) | CA | 1,761 | 123 | 6.98% | - |
-| 53 | [hay_ree](https://twitch.tv/hay_ree) | US/CA? | 252 | 21 | 8.33% | - |
+| 71 | [Shinies_sc](https://twitch.tv/shinies_sc) | US/CA? | 300 | 28.5 | 9.5% | giveaways |
+| 68 | [AverymayRae](https://twitch.tv/averymayrae) | US/CA? | 310 | 37.8 | 12.19% | - |
+| 68 | [Ballugaballz](https://twitch.tv/ballugaballz) | US/CA? | 480 | 93.5 | 19.48% | giveaways |
+| 67 | [GiantRay63](https://twitch.tv/giantray63) | UK | 368 | 51.5 | 13.99% | - |
+| 66 | [shiingle](https://twitch.tv/shiingle) | US | 130 | 8.5 | 6.54% | giveaways |
+| 63 | [KenotheRat](https://twitch.tv/kenotherat) | UK | 294 | 30.5 | 10.37% | - |
+| 60 | [Gc20Amber](https://twitch.tv/gc20amber) | CA | 2,427 | 68.7 | 2.83% | giveaways |
+| 59 | [Skweeval](https://twitch.tv/skweeval) | US/CA? | 135 | 13.2 | 9.78% | - |
+| 59 | [Andstar_](https://twitch.tv/andstar_) | US | 5,719 | 48 | 0.84% | giveaways |
+| 58 | [tsukimoooon](https://twitch.tv/tsukimoooon) | US/CA? | 189 | 21.5 | 11.38% | - |
+| 58 | [kyleinthewildz](https://twitch.tv/kyleinthewildz) | US/CA? | 180 | 68 | 37.78% | - |
+| 58 | [Sharktrocity](https://twitch.tv/sharktrocity) | US/CA? | 224 | 28.5 | 12.72% | - |
+| 57 | [GaialeiStrife](https://twitch.tv/gaialeistrife) | US/CA? | 885 | 37.5 | 4.24% | - |
+| 57 | [semperfi02](https://twitch.tv/semperfi02) | US/CA? | 108 | 6.5 | 6.02% | - |
+| 57 | [meizuri](https://twitch.tv/meizuri) | US/CA? | 297 | 29 | 9.76% | - |
+| 56 | [UrielGee](https://twitch.tv/urielgee) | CA | 110 | 9 | 8.18% | - |
+| 56 | [n3rdygn0m3](https://twitch.tv/n3rdygn0m3) | US/CA? | 437 | 41.5 | 9.5% | - |
+| 56 | [FauxSnowTT](https://twitch.tv/fauxsnowtt) | US/CA? | 668 | 29.5 | 4.42% | giveaways |
+| 55 | [thirty8tv](https://twitch.tv/thirty8tv) | US/CA? | 275 | 25.5 | 9.27% | - |
+| 54 | [shikashikabane](https://twitch.tv/shikashikabane) | US | 127 | 9.3 | 7.32% | - |
+| 53 | [chuckybloodstorm](https://twitch.tv/chuckybloodstorm) | UK | 931 | 19 | 2.04% | giveaways |
+| 53 | [nvntor](https://twitch.tv/nvntor) | US/CA? | 123 | 17.5 | 14.23% | - |
+| 53 | [AtelierLucearwa](https://twitch.tv/atelierlucearwa) | US/CA? | 600 | 51.5 | 8.58% | - |
+| 52 | [NOTREATGaming](https://twitch.tv/notreatgaming) | US/CA? | 124 | 9.2 | 7.42% | - |
+| 51 | [RaidzQT](https://twitch.tv/raidzqt) | US/CA? | 9,169 | 59.7 | 0.65% | giveaways |
 
-## Newly spotted giveaway or sponsor activity (1)
-- **bbchillen** started advertising a giveaway - Lagoon Serenity Format (FA Choice + Deluxe Prizes)
+## Newly spotted giveaway or sponsor activity (4)
+- **VonicTTV** started advertising a giveaway - Checking Out High Seas of Tamriel Event w @notpure @McF1lthy @CosyPeets | Ghostly Housecat pet / Barnacle-Back Coral Cra
+- **Zeus_Strat83** started advertising a giveaway - Solo REDSEC !giveaway Gamesir G7 SE give away
+- **FearandLoathinq** started advertising a giveaway - ARTIFACT GIVEAWAYS - NEW YOUTUBE VIDEO JUST DROPPED - !youtube
+- **B_MASS_** started advertising a giveaway - × DROPS × JESUS IS THE WAY! | GIVEAWAY @ 1K FOLLOWERS! LETS HAVE SOME FUN!
 
 ## Score moves
-- bbchillen: 37 -> 56 (up), 102 avg viewers, 4 days live
-- meanlittlebean: 30 -> 45 (up), 26.5 avg viewers, 2 days live
-- IggyXI: 33 -> 47 (up), 28 avg viewers, 2 days live
-- NellzBets: 44 -> 57 (up), 90.3 avg viewers, 3 days live
-- itsDJContrast: 26 -> 39 (up), 28.7 avg viewers, 2 days live
-- jDzKa: 43 -> 55 (up), 9.7 avg viewers, 3 days live
-- 9bub: 39 -> 51 (up), 54 avg viewers, 2 days live
-- VJAndre_: 42 -> 53 (up), 20 avg viewers, 3 days live
-- JZWBUHH: 42 -> 53 (up), 17.3 avg viewers, 2 days live
-- stuphasaurus: 32 -> 43 (up), 23 avg viewers, 3 days live
-- lotterypickk: 33 -> 43 (up), 20 avg viewers, 4 days live
-- luvlebella: 49 -> 58 (up), 24 avg viewers, 2 days live
-- roifoolie: 30 -> 39 (up), 21.6 avg viewers, 5 days live
-- hellsxgaming: 25 -> 34 (up), 20.5 avg viewers, 3 days live
-- estrimeer11: 48 -> 56 (up), 144 avg viewers, 3 days live
+- FearandLoathinq: 31 -> 55 (up), 12.3 avg viewers, 3 days live
+- bngwater: 30 -> 49 (up), 49.3 avg viewers, 3 days live
+- B_MASS_: 25 -> 44 (up), 8.3 avg viewers, 3 days live
+- VonicTTV: 58 -> 76 (up), 28.7 avg viewers, 3 days live
+- Zeus_Strat83: 37 -> 55 (up), 5.2 avg viewers, 3 days live
+- Te_Villan: 39 -> 54 (up), 12 avg viewers, 3 days live
+- WickedWebbed: 34 -> 48 (up), 30.2 avg viewers, 4 days live
+- Axellogic: 30 -> 44 (up), 25.2 avg viewers, 2 days live
+- DamoGRIND: 36 -> 47 (up), 13 avg viewers, 3 days live
+- jcwolf__: 29 -> 40 (up), 22.5 avg viewers, 4 days live
+- TheJubjubb: 45 -> 55 (up), 13.3 avg viewers, 2 days live
+- Obviously_Emmy: 40 -> 50 (up), 22.5 avg viewers, 4 days live
+- Lflawz: 24 -> 34 (up), 31.3 avg viewers, 3 days live
+- GameAndDab: 39 -> 48 (up), 23.5 avg viewers, 4 days live
+- vxnes: 29 -> 38 (up), 20 avg viewers, 3 days live
 
-## Dropped off (90)
-42flashttv, Akaruzen, ApexShay, Aryximaraki31, AyeGert, BearDebonair, BigCream4L, Blackleight, Bokifyy, Bracive, bt4200ttv, buvoe, ByDame, CANTDIE, catkimii, cool_joe_007, creationlawlz, DatsAPanda, DazzDolphin, devo_yk, DID_I_DO_THAT_TV, DMWalkingPE, DoctorClutch277, DominusMamoru, DSDVT, epicsauceee, Goin_Wheast, Hauce011, HiroVision, hoboheart01, ilyfily, imreallyrachel, javonfazio, JennaEmbers, jjy117, JohnArbiter, Jones9, Juss10bandzz, Karma_Dragoness, Kazimora
+## Dropped off (63)
+AzulCalavera, Boggernuht, Bunana_Vtuber, cambamm916, ChefV1King, crim_reaper6269, Dabi_Amin3, DaggerBoobs, DarthVapes_, DeMoersel, DuskHellhound, ecypt, eldritchWawa, ErockToDeadly, FatherlyWolf, fattymcdaddyog, Flutter, frangible, freddyboi2242012, goatpiemom, Gxnjy, hailiee33, HawaiiRed, HiTrippy, ionari_, itsbabaefr, JoshFlowers, julieleeloulives, Kevs2n, LouieStein, MagicalGeek, MizzMizfit, MsBluuu, MyersMyzfitzttv, naokomama, nats1098, NJG26Cappy, nowohotoo, pandaglassjaw, paopao_lol
