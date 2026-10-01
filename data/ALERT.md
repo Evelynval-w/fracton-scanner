@@ -1,11 +1,11 @@
-Shortlist is now 16549 streamers: 2791 new since the last scan, 10 showing new giveaway or sponsor activity.
+Shortlist is now 17780 streamers: 1321 new since the last scan, 1 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[Rezist868](https://twitch.tv/rezist868)** - 73/100, US/CA?, 187 followers, 22 avg viewers, 11.76% engagement - runs giveaways
-- **[EricNowStreams](https://twitch.tv/ericnowstreams)** - 68/100, US/CA?, 199 followers, 31.5 avg viewers, 15.83% engagement - code ERICNOWPLAYS
-- **[sneakysr](https://twitch.tv/sneakysr)** - 64/100, US/CA?, 152 followers, 11 avg viewers, 7.24% engagement - runs giveaways, code GIVEAWAY
-- **[jdbrechtel](https://twitch.tv/jdbrechtel)** - 63/100, US, 363 followers, 37.7 avg viewers, 10.39% engagement
-- **[4orthewin](https://twitch.tv/4orthewin)** - 63/100, US, 828 followers, 73.6 avg viewers, 8.89% engagement
+- **[Z1Rracing](https://twitch.tv/z1rracing)** - 73/100, US/CA?, 402 followers, 41.5 avg viewers, 10.32% engagement - runs giveaways
+- **[RyRunThaMan](https://twitch.tv/ryrunthaman)** - 68/100, UK?, 108 followers, 12.5 avg viewers, 11.57% engagement - runs giveaways
+- **[sagine001](https://twitch.tv/sagine001)** - 64/100, US/CA?, 241 followers, 46.4 avg viewers, 19.25% engagement
+- **[TweakBobb](https://twitch.tv/tweakbobb)** - 63/100, US, 562 followers, 62 avg viewers, 11.03% engagement
+- **[stuartbyers1982](https://twitch.tv/stuartbyers1982)** - 61/100, US/CA?, 300 followers, 30.2 avg viewers, 10.07% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
