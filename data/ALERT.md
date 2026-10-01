@@ -1,11 +1,11 @@
-Shortlist is now 18158 streamers: 441 new since the last scan, 4 showing new giveaway or sponsor activity.
+Shortlist is now 19508 streamers: 1537 new since the last scan, 11 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[Shinies_sc](https://twitch.tv/shinies_sc)** - 71/100, US/CA?, 300 followers, 28.5 avg viewers, 9.5% engagement - runs giveaways
-- **[AverymayRae](https://twitch.tv/averymayrae)** - 68/100, US/CA?, 310 followers, 37.8 avg viewers, 12.19% engagement
-- **[Ballugaballz](https://twitch.tv/ballugaballz)** - 68/100, US/CA?, 480 followers, 93.5 avg viewers, 19.48% engagement - runs giveaways
-- **[GiantRay63](https://twitch.tv/giantray63)** - 67/100, UK, 368 followers, 51.5 avg viewers, 13.99% engagement
-- **[shiingle](https://twitch.tv/shiingle)** - 66/100, US, 130 followers, 8.5 avg viewers, 6.54% engagement - runs giveaways
+- **[bussdownjc](https://twitch.tv/bussdownjc)** - 77/100, US, 276 followers, 30.6 avg viewers, 11.09% engagement
+- **[MickCJr](https://twitch.tv/mickcjr)** - 77/100, UK, 663 followers, 103.5 avg viewers, 15.61% engagement - runs giveaways
+- **[LogicalLadyLuna](https://twitch.tv/logicalladyluna)** - 70/100, CA, 109 followers, 22.6 avg viewers, 20.73% engagement
+- **[JustJoshDBD](https://twitch.tv/justjoshdbd)** - 68/100, UK, 112 followers, 12.9 avg viewers, 11.52% engagement
+- **[TalithaBalinska](https://twitch.tv/talithabalinska)** - 67/100, UK, 501 followers, 56 avg viewers, 11.18% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
