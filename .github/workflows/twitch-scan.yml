@@ -5,8 +5,7 @@ on:
     # Hourly across the UK and North American streaming day (UTC).
     # Times outside this window are dead hours in the target market, so we skip them
     # to stay inside the free Actions minutes. Widen to "0 * * * *" for every hour.
-    - cron: "0 14-23 * * *"
-    - cron: "0 0-6 * * *"
+        - cron: "49 19 * * *"
   workflow_dispatch:        # lets you trigger a scan by hand from the Actions tab
 
 permissions:
