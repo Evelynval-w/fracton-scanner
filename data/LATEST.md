@@ -1,106 +1,80 @@
-# Scan 27 Oct 2026 00:37 UTC
+# Scan 29 Oct 2026 23:56 UTC
 
-**20747 on the shortlist** out of 56197 channels tracked, over 6 day(s) of scanning. 3270 with confirmed location, 673 running giveaways, 381664 combined live viewers.
+**20796 on the shortlist** out of 57999 channels tracked, over 6 day(s) of scanning. 3164 with confirmed location, 680 running giveaways, 381469 combined live viewers.
 
-## New on the shortlist (2421)
+## New on the shortlist (2127)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 77 | [JasonAndFrankie](https://twitch.tv/jasonandfrankie) | UK | 117 | 18 | 15.38% | giveaways |
-| 74 | [helmethead_](https://twitch.tv/helmethead_) | US | 578 | 87.4 | 15.12% | code HELMETHEAD, G FUEL |
-| 71 | [heynoxie](https://twitch.tv/heynoxie) | UK? | 119 | 12.7 | 10.67% | giveaways |
-| 71 | [Shilo904](https://twitch.tv/shilo904) | UK? | 122 | 9 | 7.38% | giveaways, code GIVEAWAY |
-| 68 | [Magic_Rage2011](https://twitch.tv/magic_rage2011) | US/CA? | 100 | 12.5 | 12.5% | giveaways |
-| 68 | [Piquant_Shrew](https://twitch.tv/piquant_shrew) | US/CA? | 103 | 11.7 | 11.36% | giveaways |
-| 67 | [Sahkage](https://twitch.tv/sahkage) | UK | 160 | 33.5 | 20.94% | - |
-| 67 | [Jigenn0](https://twitch.tv/jigenn0) | UK | 166 | 31.5 | 18.98% | - |
-| 67 | [auke11](https://twitch.tv/auke11) | US | 410 | 46 | 11.22% | - |
-| 65 | [Crazy_Hugz](https://twitch.tv/crazy_hugz) | US | 255 | 15.5 | 6.08% | giveaways |
-| 64 | [DanskerPogi](https://twitch.tv/danskerpogi) | UK | 180 | 15.4 | 8.56% | - |
-| 64 | [ElephantEmpressPua](https://twitch.tv/elephantempresspua) | UK? | 805 | 57 | 7.08% | giveaways |
-| 64 | [zeusbl4ckz](https://twitch.tv/zeusbl4ckz) | US/CA? | 146 | 24.8 | 16.99% | - |
-| 63 | [yalbrake](https://twitch.tv/yalbrake) | UK? | 118 | 17.1 | 14.49% | - |
-| 63 | [BuschyBear](https://twitch.tv/buschybear) | CA | 144 | 13.4 | 9.31% | - |
-| 63 | [AnimeloverWoW](https://twitch.tv/animeloverwow) | US | 646 | 50.6 | 7.83% | - |
-| 62 | [ThlecLizard](https://twitch.tv/thleclizard) | UK | 150 | 19 | 12.67% | - |
-| 62 | [CaptainDoubloon](https://twitch.tv/captaindoubloon) | UK? | 1,018 | 64.5 | 6.34% | giveaways |
-| 62 | [Vonopizza](https://twitch.tv/vonopizza) | US | 106 | 7 | 6.6% | giveaways |
-| 62 | [YourBoyHitman999](https://twitch.tv/yourboyhitman999) | CA | 5,845 | 66.2 | 1.13% | giveaways |
-| 62 | [Mortiiq](https://twitch.tv/mortiiq) | US/CA? | 114 | 11 | 9.65% | code STAR |
-| 62 | [Lazesk](https://twitch.tv/lazesk) | US | 691 | 91 | 13.17% | - |
-| 62 | [zombieterrors](https://twitch.tv/zombieterrors) | CA | 132 | 17.5 | 13.26% | - |
-| 61 | [ellisnaomi1982](https://twitch.tv/ellisnaomi1982) | US/CA? | 947 | 73 | 7.71% | - |
-| 61 | [itsrialu](https://twitch.tv/itsrialu) | UK | 185 | 16.3 | 8.81% | - |
+| 73 | [FujiwaraTofuShop_](https://twitch.tv/fujiwaratofushop_) | UK? | 164 | 49.7 | 30.3% | giveaways |
+| 68 | [ezri1_0](https://twitch.tv/ezri1_0) | UK? | 597 | 95.5 | 16.0% | giveaways |
+| 67 | [DaDLM](https://twitch.tv/dadlm) | CA | 163 | 20.5 | 12.58% | - |
+| 67 | [FundayDriver](https://twitch.tv/fundaydriver) | CA | 259 | 33.5 | 12.93% | - |
+| 65 | [Bassdropkeys](https://twitch.tv/bassdropkeys) | UK? | 1,518 | 136.5 | 8.99% | giveaways |
+| 64 | [WOOTIKITIKI](https://twitch.tv/wootikitiki) | UK? | 213 | 24 | 11.27% | - |
+| 64 | [meowmewka](https://twitch.tv/meowmewka) | UK? | 482 | 55 | 11.41% | - |
+| 64 | [faithfulstars](https://twitch.tv/faithfulstars) | US/CA? | 447 | 49.6 | 11.1% | - |
+| 63 | [SH1RLZ](https://twitch.tv/sh1rlz) | UK | 591 | 23 | 3.89% | giveaways |
+| 62 | [predator_gaming420](https://twitch.tv/predator_gaming420) | UK? | 328 | 9.8 | 2.99% | giveaways |
+| 62 | [JasmineJust](https://twitch.tv/jasminejust) | UK | 150 | 15.8 | 10.53% | - |
+| 62 | [bettercallchristian](https://twitch.tv/bettercallchristian) | US | 904 | 150 | 16.59% | - |
+| 62 | [simptoms_](https://twitch.tv/simptoms_) | US | 1,071 | 115.5 | 10.78% | - |
+| 61 | [FullThrottleChickenhawk](https://twitch.tv/fullthrottlechickenhawk) | US/CA? | 689 | 25.8 | 3.74% | giveaways |
+| 60 | [lashine2](https://twitch.tv/lashine2) | US | 174 | 16.5 | 9.48% | - |
+| 59 | [DistintivoLive](https://twitch.tv/distintivolive) | US/CA? | 166 | 107.8 | 64.94% | - |
+| 59 | [liquorsnurf68](https://twitch.tv/liquorsnurf68) | UK? | 163 | 16.8 | 10.31% | - |
+| 59 | [cineluna](https://twitch.tv/cineluna) | UK? | 1,011 | 135 | 13.35% | - |
+| 58 | [noahincc](https://twitch.tv/noahincc) | UK? | 607 | 24.7 | 4.07% | giveaways |
+| 58 | [SanaSnarly](https://twitch.tv/sanasnarly) | UK? | 522 | 76.5 | 14.66% | - |
+| 58 | [Clawra_The_Explorer](https://twitch.tv/clawra_the_explorer) | UK? | 146 | 25 | 17.12% | - |
+| 58 | [Sycotoxin](https://twitch.tv/sycotoxin) | US/CA? | 221 | 22 | 9.95% | - |
+| 58 | [JustOneCharlie](https://twitch.tv/justonecharlie) | UK? | 200 | 20.5 | 10.25% | - |
+| 58 | [skadplays](https://twitch.tv/skadplays) | UK? | 173 | 33.5 | 19.36% | - |
+| 58 | [susuymak](https://twitch.tv/susuymak) | UK? | 506 | 53.5 | 10.57% | - |
 
-## Newly spotted giveaway or sponsor activity (51)
-- **mummaautumn** started advertising a giveaway - Saving Grandpa | Trails in the Sky 1st Chapter | Day 17. !GIVEAWAY ♡ !wishlist ♡ !donate ♡ !store > @mummaautumn <
-- **WhyteLyte_** started advertising a giveaway - Star Citizen | Hair Dyeing @ 5pm MST SUB-A-THON No Cap!!! | !giveaway !discord !!tangia !Ihatedeathnuts
-- **LigerRhymesWithTiger** started advertising a giveaway - Dragon Age II: Mark of the Assassin DLC | Get your Halloween Raffle entry!
-- **strawberry_milkies** started advertising a giveaway - [18+] 👽 OVERWATCH COINS GIVEAWAY 👽 EVERY 2 HOURS 👽 STARTING AT 12PM PST 👽 *YOU CAN ONLY WIN ONCE* 👽 COME JOIN! 👽 WOWIES!
-- **stayawayszn_chtk** is carrying code BOXERSZN - MONDAY MW4 - CHTK DAY 5 LIVE | STAYAWAYSZN
-- **GambiPlays_** started advertising a giveaway - GAMBI ROULETTE WEEK | 1 Sub = 1 Game Added! 🎮 | Wheel Spins Every 30 Mins | !rules
-- **LiveOrDie_TTV** started advertising a giveaway and is carrying code LIVEORDIE - 🟩EIF LIVE GIVEAWAY-SUBATHON🟩DQR CONTENT CREATOR🟩DUNGEON QUEST CREATOR🟩RAZERPARTNER🟩 #TEAMRAZER #SPONSORED !setup !ubisof
-- **PapaTotsX3** started advertising a giveaway - After Dark! Indie Horror - The Unfamiliars & Fortnite! Drops On! Diabetes Charity Stream & Double Prize Opportunity for 
-- **jessieology** started advertising a giveaway - HALLOWEEK DAY 1 - Gale of Waterdeep at your service - GIVEAWAY AT 6PM PST
-- **ProStoic** started advertising a giveaway - Key giveaway at stream end ♡ Do not, my friends, become addicted to yellow snow. It will take hold of you, and you will 
-- **TCchampion0** started advertising a giveaway - Clash of Clans .  Th18 . Top 150 L1 . Base Reviews . Giveaway
-- **piscesbridge** is carrying code PISCESBRIDGE - SURPRISE DAY STREAM!!!!! MASTERY MONDAY!!!!! │ COME HANG OUT IF YOU CAN!!! │use code: piscesbridge #epicpartner │ !disco
-- **IgniteNugz** started advertising a giveaway - DROPS Hunt showdown! hardmode? wheel spinning! 10-12hr stream ( Day 223/365 )
-- **JohnnyCollapz** started advertising a giveaway - GIVEAWAY! HELL WEEK HAS ARRIVED! Hell week Day 1! POSTING DAILY ON INSTAGRAM Celebrating UnhingedRP !URP
-- **Daws47VR** started advertising a giveaway and is carrying code DAWS47VR - short(er) stream today due to foosball | RWM Enabled | Alpha containter giveaway | !clip | !entergiveaway | !discord
-- **littl3w0lf24** started advertising a giveaway and is carrying code LITTL3W0LF24, TTVLITTL3W0LF24 - GET IN HERE!
-- **NOAURAtv** started advertising a giveaway - !GIVEAWAY & !DROPS🕸️ | NEW Players Welcome✅| !tips !kick !newvid !howdy !stats !settings !socials !playlist !lurk
-- **HeyItsCeeCee** started advertising a giveaway - Monday Again? Didn't We Just Do This? 🙄😂 | OW + Halloween | !clip !giveaway !yt
-- **Zim2325** started advertising a giveaway - Just A Bit Of Goop  | Research and Emperor Runs | Logo Tshirt Giveaway | NUT HOUSE
-- **LegendarySwagTV** started advertising a giveaway - CAMO AND RANK GRIND MW4   ! Drop A Sub ! | Halloween Vibez ! FREE PC GIVEAWAY SOON
-- **UltraFatherTV** started advertising a giveaway - Shadow Priest PoV - DOOMHOWL HYPE! GIVEAWAYS! TYPE !ticket TO JOIN! [No Nicotine Day 88] !discord !youtube !wishlist !do
-- **AndyMatter** started advertising a giveaway - What the hell is about to happen?! | First Playthrough | [!Dice] [!Giveaway]
-- **yuyu** is carrying code YUYUNA - happy yappy catgirl :3 🎃🩷 |  !merch !discord !clip [18+]
-- **ihySIayer** started advertising a giveaway - 🎃12 HR STREAM + $50 GIFTCARD GIVEAWAY!🎃#bungiecreator🎃!sub !discord
-- **grumpyyrose** started advertising a giveaway - DROPS! wwm -> AION2 Halloween skin giveaway⋆˙⟡ #WhereWindsMeet #WWMCCPS12
-- **Leil13** started advertising a giveaway - (Giveaway Ongoing) I wanna finish this chapter, but I'm TERRIFIED!!! | !charity !givedeets
-- **waitmommygames** is carrying code CELEBRATION, WAITMOMMYGAMES - 8 HOUR STREAM!!! | Friends Debut + Creator Code CELEBRATION!!
-- **PovertyPing** is carrying code VERONICA - 🎃SPOOKTOBER🎃cheer5000 for costume! ONE WEEK ONLY! 🎃 Now Playing: Resident Evil Code Veronica X.🎃NEW "BE POSITIVE" INCENT
-- **Thundah619** started advertising a giveaway - Time to farm some blood points :3 |Join the Raffle, for the GIVE AWAY GAME <3| Join me <3
-- **100_Moves_DJ** started advertising a giveaway and is carrying code 100MOVESDJ - 🔪NEW FREE SPRITES🎃GIVING AWAY TO HELP OTHERS‼️ YES I HAVE EM ALL‼️   //FORTNITE // HALLOWEEN🔪 GAME// 2K27🏀 ‼️ DROPS ON 🎁
-- **WeightedTurtl** started advertising a giveaway - 18+ | Time to Dominate Some Trios!
-- **SaucinNoobs** started advertising a giveaway - Giveaway month. Come chat and see if you win
-- **BigUpJoey_** is carrying code BIGUPJOEY - YAPS AND REACTS🔥7 DAYS IN A ROW🔥SPOOKY SZN🔥CREATOR CODE BIGUPJOEY
-- **QuestWorldProductions** started advertising a giveaway - BACK AT IT AGAIN Ripping Hyperia City Booster Packs Until I hit an Enchanted Card! Weekend Updates Vibes Giveaways LOCK 
-- **NYCCali** is carrying code NYCCALI - Did you get your hump on? 🤔😝| !PartnerGrind❣️
-- **Kymmers66** started advertising a giveaway - ╰•★★ 🎉 7 YEAR STORMERVERSARY ♠️ ★★•╯ ACR POKER | 🎁 Stormers GAW • ⚡ THUMPIN THURSDAY | 💥 NLHE + PLO PKOs  | Last Longer 
-- **TinyTink813** is carrying code TINYTINK813 - Collab W/ Athletic!!
-- **MaryMajora** is carrying code VERONICA - (1st Play!) Evolve your pokebadges here! YAPS THEN RESI TIME! | Resident Evil Code: Veronica !youtube
-- **Shaneisclassy** is carrying code SHANE00869 - F1 26 with #TeamClassy (2k Streaming)
-- **DarkWolf80s** started advertising a giveaway - Quick stream playing with viewers!! Open Lobby| OCT 26| CLOSE TO 2K FOLLOWER GOAL!! GIVEAWAY COMING in SOON!!
-- **azusa_the_shadowless** is carrying code SHADOWLESS - raidsssssssss, creator code: shadowless, viewers can play
-- **CurserWWM** is carrying code CURSER, TO - gear fixing and then arenas #wwmccps12 #wwmccs12
-- **JokerBeJoking** started advertising a giveaway - 🦄*SPRITE GIVEAWAY* Follow for a chance to WIN! | ZERO BUILD | 10,000+ WINS 🦄 (18+)
-- **ladykillapayne92** started advertising a giveaway - ݁ ˖Ი𐑼˖🎃 *giveaway* The New map is HEERRRREEEE! Come hang out while we explore and go uppsies! 🎃˖Ი𐑼
-- **Psychomi20** is carrying code PSYSTREAMS20 - Yandere week day 7/7 + special  A sad goodbye T-T
-- **Rusty_Peppa** is carrying code RUSTYPEPPA - Custom Games With followers 🎃 use creator code RUSTYPEPPA
-- **SPLITxLIVE** started advertising a giveaway - SPLIT +44 | IM GETTING LIT | CAPITAL RP | GIVEAWAY
-- **c0neFn** is carrying code C0NEFN - 🏆Fortnite Ranked Reload Carrying Viewers to Unreal🏆| Playing with Viewers !discord !sub !carry
-- **TimfamousTV** is carrying code TIMFAMOUSTV - COME MAKE FUSIONS! Pokemon Infinite Fusion
-- **Crawling_Moon** is carrying code CRAWLINGMOON - DARKTOBER RISING! and the Moon comes Crawling!
-- **lmaonattt** is carrying code LMAONAT - KARAOKE KARAOKE KARAOKE
+## Newly spotted giveaway or sponsor activity (25)
+- **VVouldyoukindly** started advertising a giveaway - 🔥[DROPS ON]🔥| NA/EU POP-UP GIVEAWAY TODAY! | Arena at its finest... while snailing around 🐌 | Its going to be a long str
+- **Quialal** started advertising a giveaway - One thing at a time. That's a perfectly reasonable strategy until NMS happens. 😂🛰️| Giveaway time!
+- **Skelleton_Witch** started advertising a giveaway - DROPS (18+) Surviving with friends? In This Economy?💀 !enter Giveaway, Lurk for !drops or get a !potion 😈
+- **Drolfy** started advertising a giveaway - Zombies in my Tarky also 600 follower giveaway :O
+- **AudaSarty** is carrying code AUDASARTY - 🎁 DROPS ON | 🧟‍♀️ I'm INFECTED… and They Let Me Drive a BOAT?! 😂🚢 | OH Creator | Code: AudaSarty | TW: Fake Blood
+- **JeremyTheWiseOne** started advertising a giveaway - DROPS | Hitman Mischief | NEW Elusive Target | Giveaway
+- **cheekyfox97** is carrying code YELLOW - +18 ||  Code Yellow | Punishment Wheel! || !zombie !discord !scream
+- **EnderDreemurr** started advertising a giveaway - ART AND JESTER NARDO RAFFLE! (2/5) [5 subs= png on strem :3] ~ bWAH, coffee'n chill [+18]
+- **spookyyluna** started advertising a giveaway - [!TICKET] Giveaway for DBD x Diablo collection🖤Welcome to Luna's Spookyy Wonderland 🖤 Spookyy Season All Year! 🎃 #DBDcre
+- **c0neFn** started advertising a giveaway and is carrying code C0NEFN - 🏆Pro Tokens🏆|Fortnite Grinding| !giveaway !prime !carry
+- **Heretic721** started advertising a giveaway - All the Argent rings!  14 so far, and 10 more to go!
+- **HeadyHippyshop** started advertising a giveaway - [Raffle for WILDAREA TICKET] RAIDING Giratina & Mega SableEye
+- **NovaReady** started advertising a giveaway - !Giveaway 🟪 Wack a Willy Wednesday! | Prestige 3 — Camo Grind —  Gold: 18/33 Plat: 1/33 | CoD: MW4 🟪
+- **D2RJay** started advertising a giveaway - 💥COMP STAGE 2K21💥10K MEMBERS GIVEAWAY?💥!tb21 !discord !socials💥
+- **Jhonny_Blazed** started advertising a giveaway - 🎃 ARK Official PvE | 3 DAYS OF GIVEAWAYS THIS WEEKEND… TONIGHT WE BUILD THE ARSENAL! 💀🔥
+- **loljinxy** started advertising a giveaway - WELCOME TO THE SPOOKTOBER GAME ( Join candy hunt in discord for prizes )
+- **shayrachel** started advertising a giveaway - [DROPS]🔴Bear, I love you so, so, so, so, so much🔴| NIER AUTOMATA GIVEAWAY | #DBDCreator !discord !socials
+- **theCodeDrift** is carrying code RELEASES - Live startup work // Product metrics & code releases ┊ !today !taskless !dc
+- **middleagedgamerguyuk** started advertising a giveaway - Tenebris Somnia - Mixing Retro with modern film #giveaway
+- **JusttAlly** started advertising a giveaway - Your a Wizard Ally! 🧙🏽 | !Giveaway !Berry ✨ | Road to 700! 🌸
+- **tempybaby** started advertising a giveaway - ・ʚ🌸ɞ・DAY 9 OF SPOOKTOBER! LET'S GET CRAZY! |  !discord !lurk !clip !pillbottle !event !giveaway・ʚ🌸ɞ
+- **xserena03** started advertising a giveaway - FRAG W MY POOKIES I GIVEAWAY DETAILS
+- **NeutralAgent** is carrying code BIGBYISBETTER - 311 in a row - DDO Level 9-?? with @ysukai New Code: BIGBYISBETTER  | 191/216 DDO on alt! #DDOCreator
+- **MfBoogeyMan** started advertising a giveaway - NEW UPDATE! DLC GIVEAWAY!  | Halloween The Game #halloween #halloweengame #horror
+- **HannahBelle_1** is carrying code ENGLISH - (DROPS) Exploring the NEW Update!!| New Spooky Sub & Watchtime Badges!!  🧡🍂✨ !discord !code
 
 ## Score moves
-- Grumblumblin: 30 -> 59 (up), 19.7 avg viewers, 3 days live
-- ihySIayer: 25 -> 50 (up), 24.8 avg viewers, 3 days live
-- grumpyyrose: 26 -> 50 (up), 77.3 avg viewers, 3 days live
-- NOAURAtv: 33 -> 55 (up), 69 avg viewers, 3 days live
-- LigerRhymesWithTiger: 46 -> 67 (up), 15 avg viewers, 3 days live
-- GBarrow06: 29 -> 50 (up), 35.5 avg viewers, 2 days live
-- WhyteLyte_: 52 -> 72 (up), 29.4 avg viewers, 4 days live
-- shurmanation: 44 -> 64 (up), 34.2 avg viewers, 4 days live
-- GambiPlays_: 41 -> 61 (up), 17.8 avg viewers, 5 days live
-- TCchampion0: 40 -> 60 (up), 8.6 avg viewers, 5 days live
-- JohnnyCollapz: 36 -> 56 (up), 36.6 avg viewers, 4 days live
-- LegendarySwagTV: 32 -> 52 (up), 9.3 avg viewers, 3 days live
-- AndyMatter: 30 -> 50 (up), 22 avg viewers, 3 days live
-- Leil13: 28 -> 48 (up), 17.8 avg viewers, 4 days live
-- WeightedTurtl: 27 -> 47 (up), 7.3 avg viewers, 3 days live
+- VVouldyoukindly: 41 -> 75 (up), 51.2 avg viewers, 4 days live
+- mr_andy53: 33 -> 58 (up), 20 avg viewers, 2 days live
+- Skelleton_Witch: 44 -> 65 (up), 40.4 avg viewers, 3 days live
+- BerningWorld: 44 -> 64 (up), 30.8 avg viewers, 4 days live
+- JeremyTheWiseOne: 39 -> 59 (up), 17.8 avg viewers, 4 days live
+- middleagedgamerguyuk: 25 -> 45 (up), 21 avg viewers, 2 days live
+- HeadyHippyshop: 33 -> 52 (up), 25.2 avg viewers, 4 days live
+- loljinxy: 27 -> 46 (up), 5.5 avg viewers, 4 days live
+- mikaeel1011: 50 -> 68 (up), 10.3 avg viewers, 3 days live
+- Drolfy: 44 -> 62 (up), 11.4 avg viewers, 5 days live
+- EnderDreemurr: 39 -> 57 (up), 50 avg viewers, 4 days live
+- spookyyluna: 38 -> 56 (up), 122.2 avg viewers, 6 days live
+- Heretic721: 34 -> 52 (up), 13.9 avg viewers, 6 days live
+- NovaReady: 33 -> 51 (up), 6.8 avg viewers, 4 days live
+- D2RJay: 33 -> 51 (up), 7.2 avg viewers, 3 days live
 
-## Dropped off (3558)
-01_Dre, 0siris_728, 0xShellcode, 112xtroyer, 11miste, 1andyval, 1bryco, 1v1medez, 2020HeinSite, 2022_farming_guy, 20skynight02, 2dgriffin, 2girls1pan, 2Ton716, 300blackout_ty, 33_Elk, 346abz, 3DPOLY, 3Hambie, 3regrets, 42flashttv, 43vab4ng, 4presto, 66FF00, 6_reaper_66, 7heClown, 818_Madden, 8DTurtles, 8jef, 8kikyo, 8Symbiote, 965thefan, 999rayy, 99Majek, A0KIGVHARA, A1phaChino, aAaSmithaAa, Aaiza_Project, aamirtausif, aaron2u2
+## Dropped off (2078)
+00demi, 0nur65, 0UNC3, 10PercentPig, 1JulioO, 27srs, 2BitGalaxy, 37Lazarus, 3ch310n, 420Spartacus, 4noth3r_chan, 4Reyez, 4shaunie, 5fingeredrlplayer, 710bren, 8bitabra_, 907ColdSnap, 997WTN, 99PCTGOD, A1Bets, a_Taraxia, aaron051282, Abbby, Abbinia, AbowlofRicey, abozahra01, Abrexian, acialol, AcornBandit, Acrillis, AdamantAbsinthe, AdamFromAus, AdamTheMinitaur, adoremi_, Adtyi_, aDUCCk, Aerith_87, Aeryowo, afflictedeu, afgblue
