@@ -1,11 +1,11 @@
-Shortlist is now 11198 streamers: 2155 new since the last scan, 14 showing new giveaway or sponsor activity.
+Shortlist is now 8319 streamers: 1805 new since the last scan, 12 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[Midnight_Aura_](https://twitch.tv/midnight_aura_)** - 68/100, UK?, 137 followers, 14.3 avg viewers, 10.44% engagement - runs giveaways
-- **[EmilEt1Fromage](https://twitch.tv/emilet1fromage)** - 67/100, CA, 143 followers, 22.3 avg viewers, 15.59% engagement
-- **[helenwheelzz](https://twitch.tv/helenwheelzz)** - 66/100, CA, 265 followers, 26.3 avg viewers, 9.92% engagement
-- **[JoharaLive](https://twitch.tv/joharalive)** - 66/100, UK?, 497 followers, 28 avg viewers, 5.63% engagement - runs giveaways
-- **[PeachyRiceCakes](https://twitch.tv/peachyricecakes)** - 66/100, UK?, 193 followers, 18 avg viewers, 9.33% engagement - runs giveaways
+- **[zoskyCube](https://twitch.tv/zoskycube)** - 86/100, CA, 260 followers, 23.8 avg viewers, 9.15% engagement - runs giveaways
+- **[flexsterdashootatv](https://twitch.tv/flexsterdashootatv)** - 79/100, UK?, 363 followers, 44.5 avg viewers, 12.26% engagement - runs giveaways
+- **[LigerRhymesWithTiger](https://twitch.tv/ligerrhymeswithtiger)** - 77/100, CA, 267 followers, 22.5 avg viewers, 8.43% engagement - runs giveaways
+- **[Im_SneakyDBeaky](https://twitch.tv/im_sneakydbeaky)** - 73/100, UK?, 106 followers, 21.5 avg viewers, 20.28% engagement - runs giveaways
+- **[dirtydeeds424](https://twitch.tv/dirtydeeds424)** - 68/100, UK?, 402 followers, 46.4 avg viewers, 11.54% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.

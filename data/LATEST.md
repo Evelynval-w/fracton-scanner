@@ -1,69 +1,67 @@
-# Scan 31 Oct 2026 22:54 UTC
+# Scan 01 Nov 2026 23:11 UTC
 
-**11198 on the shortlist** out of 48804 channels tracked, over 6 day(s) of scanning. 1828 with confirmed location, 430 running giveaways, 220161 combined live viewers.
+**8319 on the shortlist** out of 32067 channels tracked, over 6 day(s) of scanning. 1257 with confirmed location, 310 running giveaways, 165035 combined live viewers.
 
-## New on the shortlist (2155)
+## New on the shortlist (1805)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 68 | [Midnight_Aura_](https://twitch.tv/midnight_aura_) | UK? | 137 | 14.3 | 10.44% | giveaways |
-| 67 | [EmilEt1Fromage](https://twitch.tv/emilet1fromage) | CA | 143 | 22.3 | 15.59% | - |
-| 66 | [helenwheelzz](https://twitch.tv/helenwheelzz) | CA | 265 | 26.3 | 9.92% | - |
-| 66 | [JoharaLive](https://twitch.tv/joharalive) | UK? | 497 | 28 | 5.63% | giveaways |
-| 66 | [PeachyRiceCakes](https://twitch.tv/peachyricecakes) | UK? | 193 | 18 | 9.33% | giveaways |
-| 64 | [Elyvenn11](https://twitch.tv/elyvenn11) | UK? | 196 | 27.4 | 13.98% | - |
-| 64 | [SkiiMaskTimmy](https://twitch.tv/skiimasktimmy) | UK | 1,904 | 46.5 | 2.44% | giveaways, Razer |
-| 64 | [palechap](https://twitch.tv/palechap) | UK? | 178 | 26 | 14.61% | - |
-| 64 | [eferz_](https://twitch.tv/eferz_) | UK | 2,539 | 63 | 2.48% | giveaways, code EFERZ |
-| 63 | [MiniMoCinema](https://twitch.tv/minimocinema) | US | 273 | 23.7 | 8.68% | - |
-| 63 | [Coco_Tax](https://twitch.tv/coco_tax) | UK? | 183 | 15.5 | 8.47% | giveaways |
-| 63 | [polarpr1ncess](https://twitch.tv/polarpr1ncess) | UK? | 508 | 35 | 6.89% | giveaways |
-| 60 | [LavinderFields](https://twitch.tv/lavinderfields) | US | 1,383 | 40.3 | 2.91% | giveaways |
-| 60 | [RyRy_Beans](https://twitch.tv/ryry_beans) | UK? | 621 | 35.5 | 5.72% | giveaways |
-| 60 | [MaplePrince360](https://twitch.tv/mapleprince360) | CA | 117 | 11 | 9.4% | - |
-| 59 | [peethanlol](https://twitch.tv/peethanlol) | UK? | 155 | 15.2 | 9.81% | - |
-| 59 | [blvcamap666](https://twitch.tv/blvcamap666) | UK? | 647 | 127.2 | 19.66% | - |
-| 58 | [CatahoulaMom](https://twitch.tv/catahoulamom) | US | 207 | 18.5 | 8.94% | - |
-| 58 | [IvyTheArtist](https://twitch.tv/ivytheartist) | UK | 593 | 22.5 | 3.79% | - |
-| 58 | [archiebaldx](https://twitch.tv/archiebaldx) | UK? | 272 | 29.5 | 10.85% | - |
-| 58 | [nixorbit](https://twitch.tv/nixorbit) | UK | 1,350 | 29.5 | 2.19% | giveaways |
-| 58 | [JacobDaPleb](https://twitch.tv/jacobdapleb) | UK? | 104 | 28.5 | 27.4% | - |
-| 58 | [droprealm](https://twitch.tv/droprealm) | UK? | 149 | 52.5 | 35.23% | - |
-| 58 | [Hypergeomancer](https://twitch.tv/hypergeomancer) | UK? | 233 | 24.5 | 10.52% | - |
-| 58 | [strayvoo](https://twitch.tv/strayvoo) | UK? | 100 | 68 | 68.0% | - |
+| 86 | [zoskyCube](https://twitch.tv/zoskycube) | CA | 260 | 23.8 | 9.15% | giveaways |
+| 79 | [flexsterdashootatv](https://twitch.tv/flexsterdashootatv) | UK? | 363 | 44.5 | 12.26% | giveaways |
+| 77 | [LigerRhymesWithTiger](https://twitch.tv/ligerrhymeswithtiger) | CA | 267 | 22.5 | 8.43% | giveaways |
+| 73 | [Im_SneakyDBeaky](https://twitch.tv/im_sneakydbeaky) | UK? | 106 | 21.5 | 20.28% | giveaways |
+| 68 | [dirtydeeds424](https://twitch.tv/dirtydeeds424) | UK? | 402 | 46.4 | 11.54% | - |
+| 67 | [Cadmot](https://twitch.tv/cadmot) | UK | 225 | 25.5 | 11.33% | - |
+| 67 | [auke11](https://twitch.tv/auke11) | US | 412 | 49 | 11.89% | - |
+| 67 | [lofisonos4](https://twitch.tv/lofisonos4) | US | 141 | 35 | 24.82% | - |
+| 67 | [spughetti_](https://twitch.tv/spughetti_) | UK | 272 | 76 | 27.94% | - |
+| 65 | [momskyRB](https://twitch.tv/momskyrb) | US | 1,441 | 142.7 | 9.9% | - |
+| 65 | [Lottie_Tv](https://twitch.tv/lottie_tv) | UK | 1,463 | 148.3 | 10.14% | - |
+| 63 | [MrCeoSlimLive](https://twitch.tv/mrceoslimlive) | UK? | 608 | 116 | 19.08% | code CEOSLIM |
+| 61 | [PBFrenchFry](https://twitch.tv/pbfrenchfry) | UK? | 780 | 29.6 | 3.79% | giveaways |
+| 61 | [stuartbyers1982](https://twitch.tv/stuartbyers1982) | UK? | 309 | 47 | 15.21% | - |
+| 59 | [fatalclinch](https://twitch.tv/fatalclinch) | UK | 848 | 36 | 4.25% | - |
+| 59 | [daammngoddess](https://twitch.tv/daammngoddess) | UK? | 1,125 | 53.5 | 4.76% | code TO |
+| 59 | [Parkesy_uk](https://twitch.tv/parkesy_uk) | UK | 451 | 18 | 3.99% | giveaways |
+| 58 | [foe5701](https://twitch.tv/foe5701) | UK? | 614 | 73.5 | 11.97% | - |
+| 58 | [whoisdeueI](https://twitch.tv/whoisdeuei) | UK? | 533 | 69 | 12.95% | - |
+| 58 | [taraakabigdaddy](https://twitch.tv/taraakabigdaddy) | UK? | 168 | 58 | 34.52% | - |
+| 58 | [sampsonforge](https://twitch.tv/sampsonforge) | UK? | 305 | 35 | 11.48% | - |
+| 58 | [Z1Rracing](https://twitch.tv/z1rracing) | UK? | 499 | 61 | 12.22% | - |
+| 58 | [Remant10](https://twitch.tv/remant10) | UK? | 138 | 48 | 34.78% | - |
+| 58 | [captainasid](https://twitch.tv/captainasid) | UK? | 543 | 54.5 | 10.04% | - |
+| 58 | [kingtrav74](https://twitch.tv/kingtrav74) | UK? | 237 | 46 | 19.41% | - |
 
-## Newly spotted giveaway or sponsor activity (14)
-- **MondayNightHugz** started advertising a giveaway - THE PIPE GIVEAWAY @ 11PM EST ----MONDAYNIGHT HALLOWEENIE SPECIAL! -- GIVEAWAYS + OPPS ALL BOUNTIES TONIGHT!
-- **CassMutt** started advertising a giveaway - [18+] HAPPY HALLOWEEN! New Model, New Event Badge, GIVEAWAYS! | !looping !partner !mutt !fursuits !sub !tip !uwu !rogue
-- **EvilFireblade** started advertising a giveaway - Perilous Legends | TWITCH POINTS | 24 hr stream?  You decide!   Perilous Legends Spooktacular Subathon Extravaganza!  Bi
-- **DeduceMoose** started advertising a giveaway - 🎃Happy Halloween! 🎃 24 HOUR STREAM 💯⭐ Horror Games New Badges Wheel Spins AND Brainrot ⚡| !schedule !badges !pumpkin !sk
-- **LilTellTails** started advertising a giveaway - 🎃Art-o-Ween🎃 Art Raffles Happening | !socials !comms
-- **AbyssalBearVT** started advertising a giveaway - 18+ ⟡✦{new model} halloween art raffles and chibis!! will be playing faith later ✦⟡  !discord !throne !sponsored !lurk
-- **sighfun** started advertising a giveaway - !giveaway HELLOWEEN V: I'm the one who trick or treats! | !keanu !yoda !canada !discord
-- **IndyBrambles** started advertising a giveaway - Can I Beat This Crazy Spooky Game?? | Amnesia: The Bunker  | Game Wheel Spin After!
-- **TonyJamesonFM** started advertising a giveaway - FM27 Beta Save | Man Utd Rebuild !giveaway
-- **IJustABabyTv** started advertising a giveaway - 🎃 HALLOWEEN MAGIC!  Plushie Games, Mystery Outfits & Sashimi! 🦄 I've Become a Magical Unicorn… WHAT COULD GO WRONG?! 😂🎃
-- **chickee_1** is carrying code CHICK - Catalina Alvarez | Angels UB | PMA-RP | new redemptions | !ped | CODE CHICK WHEN?
-- **CosmicBunnyVT** started advertising a giveaway - [18+] HALLOWSTREAM! SPOOKY GAMES! GIVEAWAY!  ₍ᐢᐢ₎
-- **KingMikedas** started advertising a giveaway - HYPE STREAM! Donkey Kong Country 2 Lost Levels Trick/Treat Wheel Spin No Cap.
-- **TenorRacc** started advertising a giveaway - Halloween doodle !RAFFLE | !grow !comms !bigcord
+## Newly spotted giveaway or sponsor activity (12)
+- **kirstensavory** started advertising a giveaway - Playing more scary games! | Giveaway at the end of stream! | !discord
+- **AbsChats** started advertising a giveaway - ✨Battle Pass Giveaway✨New Mini Season First Look!  |Lurk friendly, !tech
+- **ThatsNotHakeem** started advertising a giveaway - Diving with My Senpai!!!!| !ticket to enter 1k !giveaway are you a gamer??? !gamble 100+ at your own risk 18+ streamer
+- **nMeep** started advertising a giveaway - DAY 8 UNCAPPED SPOOKATHON | Happy Halloween! !subathon !giveaway PARTNER PUSHING #MeepforPartner
+- **Draconis73** started advertising a giveaway - <Partner Push> Magic # is 1! DROPS🐉🐉Chill post Halloween tanking. [EU/NA]   Forever Keys giveaway later 🐉🐉 !plat !clip !
+- **Shell_legendmt50** started advertising a giveaway - Extra Life with The Chaos Crafters!! Giveaways! Charity Stream!
+- **AgentJokerVT** started advertising a giveaway - THE START OF NO VALK NOVEMBER | GIVEAWAY !TICKET | WARFRAME WITH VIEWERS | ROAD TO 500 AGENTS |  (18+) !clip !discord
+- **Exvarn** started advertising a giveaway - Art and Chill 18+ | 4k Celebration! Character ref Raffle
+- **obliviouspansyfam** started advertising a giveaway - Playing some Wow Midnight with Friends for Fun! !giveaway for wow forever 1 week Free
+- **JennySilverhand** started advertising a giveaway - 💜🔪Sicky In Haddonfield DoubleXP🔪💜 Halloween Giveaway Day! 🩸!daily !fish🩸 !DISCORD !FreakyNikki !subcommand [18+][!PC]🚨
+- **ZombieHerself** started advertising a giveaway - | 18+ | DBD Creator Push | Giveaway ? | DBD with bestie | Day 8 | Daily check in | !pp !bratty | Lurk & Anon friendly |
+- **SubmissiveShyBoy** started advertising a giveaway - UNBOXING SHOWING OFF TODAY! LOTS AND LOTS AND LOTS OF COOL STUFF AND FLEXING MY PRIZES! I WON THE COSTUME CONTEST!!! PAR
 
 ## Score moves
-- MondayNightHugz: 46 -> 70 (up), 42.2 avg viewers, 4 days live
-- EvilFireblade: 37 -> 58 (up), 23.7 avg viewers, 6 days live
-- LilTellTails: 39 -> 57 (up), 40.7 avg viewers, 3 days live
-- sighfun: 37 -> 55 (up), 6.5 avg viewers, 3 days live
-- DeduceMoose: 40 -> 57 (up), 35 avg viewers, 3 days live
-- TonyJamesonFM: 37 -> 54 (up), 85.7 avg viewers, 3 days live
-- CosmicBunnyVT: 33 -> 50 (up), 9 avg viewers, 3 days live
-- TenorRacc: 27 -> 44 (up), 17.5 avg viewers, 3 days live
-- IndyBrambles: 39 -> 55 (up), 11.5 avg viewers, 4 days live
-- IJustABabyTv: 34 -> 50 (up), 12.8 avg viewers, 4 days live
-- KingMikedas: 30 -> 46 (up), 14.5 avg viewers, 4 days live
-- EnchiladaErniee: 51 -> 66 (up), 27 avg viewers, 3 days live
-- AliceLonerGirl: 39 -> 53 (up), 50 avg viewers, 3 days live
-- rico_doom: 31 -> 45 (up), 24.7 avg viewers, 3 days live
-- CassMutt: 53 -> 65 (up), 31.5 avg viewers, 4 days live
+- twitchyPEANUTT: 26 -> 58 (up), 66 avg viewers, 2 days live
+- Cod_Wonderful: 43 -> 73 (up), 70.8 avg viewers, 4 days live
+- AbsChats: 34 -> 58 (up), 20 avg viewers, 3 days live
+- ZoeLycan: 26 -> 50 (up), 57.7 avg viewers, 3 days live
+- Smaelheals: 36 -> 58 (up), 40 avg viewers, 2 days live
+- never2old2wow: 43 -> 61 (up), 72 avg viewers, 3 days live
+- Lilo3t: 42 -> 60 (up), 16 avg viewers, 3 days live
+- twixxyroll: 40 -> 58 (up), 22 avg viewers, 2 days live
+- Exvarn: 31 -> 49 (up), 80 avg viewers, 2 days live
+- obliviouspansyfam: 29 -> 47 (up), 7 avg viewers, 3 days live
+- JennySilverhand: 28 -> 46 (up), 83.3 avg viewers, 3 days live
+- ZombieHerself: 24 -> 42 (up), 8.7 avg viewers, 3 days live
+- Draconis73: 35 -> 52 (up), 41.3 avg viewers, 3 days live
+- AgentJokerVT: 33 -> 50 (up), 18.5 avg viewers, 2 days live
+- PapaProbo: 29 -> 46 (up), 38 avg viewers, 3 days live
 
-## Dropped off (146)
-Aimedtwo, ajuzumakiii, algs1_team13, ALr52, arctic_fang, AriaDoesTwitch, AriaVivo, arieniece, AstralBunnii, AwesomeisBlue, Axes_Inc, BadGamerElite, bbywhitsx, belleossomvt, Bersekrer, bigmoliftss, Blonde_Bakery_, bonapetitty, BrendonBaugh, BrezMarz, Capy_R, CapyAllie, CheckinChad, CIRCUSMEAT, ClumsyBrutal, cosmiacaliavt, csdad67, CursedJoystick, CyberLiveArena5, d0ggr, Dabi_Amin3, DaniNicole, DemiGodTai, DisgraCe_Kihd, dj_ansi, DJKawaiiFieri, dogatemic, DogknightGames, egurpMilkrs, eldoorr
+## Dropped off (4684)
+00JerkFaceJewel00, 020_SARIA, 02xygen_, 03grave, 07Samsquanches, 1half, 1stfukkit, 1YungNu, 23cloudz, 24Sleaze, 2Alol, 2dook, 2kkarla, 2much_crzy, 37LN37, 3DWANI23, 420gtv, 423tae, 42oblaze_it, 4_loski, 4emili4, 4everSlayz, 4eyesminiguys, 4noth3r_chan, 50PlusDoner, 50shadesgaming, 5_ft_nothing, 5crunchie, 5L_Flocko, 5oley, 5ricc, 626drums, 6xChaz, 7cicadas, 7d4gaming, 7r0n1c, 80HDBarbie, 8BitBovine, 8BitNuggetz, 997WTN
