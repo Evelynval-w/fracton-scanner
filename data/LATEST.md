@@ -1,64 +1,64 @@
-# Scan 04 Nov 2026 00:20 UTC
+# Scan 05 Nov 2026 00:41 UTC
 
-**10857 on the shortlist** out of 36024 channels tracked, over 7 day(s) of scanning. 1752 with confirmed location, 404 running giveaways, 208951 combined live viewers.
+**12607 on the shortlist** out of 39221 channels tracked, over 8 day(s) of scanning. 2067 with confirmed location, 471 running giveaways, 238573 combined live viewers.
 
-## New on the shortlist (2010)
+## New on the shortlist (2129)
 
 | Score | Streamer | Where | Followers | Avg viewers | Engagement | Signals |
 |---|---|---|---|---|---|---|
-| 81 | [Nyybas](https://twitch.tv/nyybas) | US | 178 | 25 | 14.04% | giveaways |
-| 72 | [PeachyRiceCakes](https://twitch.tv/peachyricecakes) | UK? | 198 | 21.5 | 10.86% | giveaways |
-| 67 | [ChiTownBobo](https://twitch.tv/chitownbobo) | UK? | 637 | 66.5 | 10.44% | DoorDash |
-| 66 | [itsEyelash](https://twitch.tv/itseyelash) | UK | 276 | 42.5 | 15.4% | - |
-| 66 | [Cadmot](https://twitch.tv/cadmot) | UK | 225 | 42 | 18.67% | - |
-| 66 | [shorseybaby](https://twitch.tv/shorseybaby) | CA | 203 | 24.5 | 12.07% | - |
-| 66 | [McGahanified](https://twitch.tv/mcgahanified) | CA | 183 | 20 | 10.93% | - |
-| 64 | [nek0niiii](https://twitch.tv/nek0niiii) | UK | 481 | 30 | 6.24% | - |
-| 63 | [TsugaruSetsu](https://twitch.tv/tsugarusetsu) | US | 254 | 23 | 9.06% | - |
-| 62 | [GoatDaddyTB](https://twitch.tv/goatdaddytb) | UK? | 578 | 98.5 | 17.04% | - |
-| 62 | [RoonVT](https://twitch.tv/roonvt) | US | 320 | 28 | 8.75% | - |
-| 61 | [YeetusMaticus](https://twitch.tv/yeetusmaticus) | UK? | 182 | 14.5 | 7.97% | giveaways |
-| 61 | [MDB_100](https://twitch.tv/mdb_100) | US | 127 | 15.5 | 12.2% | - |
-| 59 | [TTVTerryy](https://twitch.tv/ttvterryy) | UK? | 801 | 23.4 | 2.92% | giveaways |
-| 59 | [BladesOfChaos__](https://twitch.tv/bladesofchaos__) | UK | 145 | 6.5 | 4.48% | giveaways |
-| 59 | [CasualTal](https://twitch.tv/casualtal) | CA | 329 | 15 | 4.56% | giveaways |
-| 58 | [UltraFatherTV](https://twitch.tv/ultrafathertv) | UK? | 5,803 | 29.7 | 0.51% | giveaways |
-| 58 | [seoukage](https://twitch.tv/seoukage) | UK? | 247 | 18.4 | 7.45% | - |
-| 57 | [Exie_VT](https://twitch.tv/exie_vt) | UK? | 911 | 100.5 | 11.03% | - |
-| 57 | [eveningmelon](https://twitch.tv/eveningmelon) | UK? | 358 | 42.5 | 11.87% | - |
-| 57 | [SlushiVGC](https://twitch.tv/slushivgc) | UK? | 549 | 60 | 10.93% | - |
-| 57 | [joackim002](https://twitch.tv/joackim002) | UK? | 108 | 43.5 | 40.28% | - |
-| 57 | [felinaut](https://twitch.tv/felinaut) | UK? | 170 | 24 | 14.12% | - |
-| 57 | [hunerhaesu](https://twitch.tv/hunerhaesu) | UK? | 423 | 22 | 5.2% | - |
-| 57 | [LeafieASMR](https://twitch.tv/leafieasmr) | US/CA? | 331 | 37 | 11.18% | - |
+| 72 | [Oogli](https://twitch.tv/oogli) | US/CA? | 722 | 61.5 | 8.52% | giveaways, code OOGLI |
+| 65 | [violabunnie](https://twitch.tv/violabunnie) | UK? | 230 | 22.5 | 9.78% | - |
+| 65 | [otherdruids](https://twitch.tv/otherdruids) | UK | 104 | 23.5 | 22.6% | - |
+| 65 | [5ithzOg](https://twitch.tv/5ithzog) | UK? | 132 | 10.4 | 7.88% | giveaways |
+| 65 | [scullspy](https://twitch.tv/scullspy) | US | 238 | 58 | 24.37% | - |
+| 64 | [jalaladin777](https://twitch.tv/jalaladin777) | UK? | 114 | 66.2 | 58.07% | - |
+| 63 | [YourChopperPilot](https://twitch.tv/yourchopperpilot) | US | 5,719 | 148.8 | 2.6% | giveaways |
+| 62 | [Skelleton_Witch](https://twitch.tv/skelleton_witch) | CA | 2,318 | 95.5 | 4.12% | giveaways |
+| 61 | [amaigoVT](https://twitch.tv/amaigovt) | UK? | 303 | 37.8 | 12.48% | - |
+| 61 | [hinxeDzin](https://twitch.tv/hinxedzin) | UK? | 183 | 31.5 | 17.21% | - |
+| 61 | [gamingtwitch01](https://twitch.tv/gamingtwitch01) | UK? | 146 | 31.2 | 21.37% | - |
+| 61 | [twixxyroll](https://twitch.tv/twixxyroll) | UK? | 226 | 23.2 | 10.27% | - |
+| 61 | [SleepyHeadsUp](https://twitch.tv/sleepyheadsup) | US | 264 | 30 | 11.36% | - |
+| 61 | [Nunchuckster](https://twitch.tv/nunchuckster) | US | 512 | 74.5 | 14.55% | - |
+| 60 | [Zorban](https://twitch.tv/zorban) | UK | 2,393 | 139.9 | 5.85% | - |
+| 60 | [sinnoh](https://twitch.tv/sinnoh) | US | 160 | 16.5 | 10.31% | - |
+| 60 | [trashpanda7815](https://twitch.tv/trashpanda7815) | CA | 135 | 14 | 10.37% | - |
+| 60 | [IamDrJekyl](https://twitch.tv/iamdrjekyl) | CA | 116 | 14.5 | 12.5% | - |
+| 59 | [mase0nn](https://twitch.tv/mase0nn) | US | 639 | 51.5 | 8.06% | - |
+| 59 | [TypeJazz](https://twitch.tv/typejazz) | CA | 141 | 13.5 | 9.57% | - |
+| 58 | [AethericTV](https://twitch.tv/aetherictv) | UK? | 232 | 21.2 | 9.14% | - |
+| 58 | [NatalieEllee](https://twitch.tv/natalieellee) | UK? | 185 | 21 | 11.35% | - |
+| 58 | [DandyThryss](https://twitch.tv/dandythryss) | US | 526 | 13.5 | 2.57% | giveaways |
+| 58 | [rpcbeats421](https://twitch.tv/rpcbeats421) | UK? | 105 | 38 | 36.19% | - |
+| 57 | [CaptainDoubloon](https://twitch.tv/captaindoubloon) | UK? | 1,033 | 56 | 5.42% | giveaways |
 
 ## Newly spotted giveaway or sponsor activity (9)
-- **ryvitt_games** started advertising a giveaway - 500 FOLOWER ART RAFFLE
-- **EchoheartsLament** is carrying code ENGLISH - OOT OG #4 | What do trees use to send emergency messages in the forest? Moss code
-- **xX_TEMPLAR_Xx_1** started advertising a giveaway - Central Park DLC Giveaway stream. Come Chat/Chill/Play
-- **Queenie** started advertising a giveaway - [18+][Vtuber][!giveaway] Official CC | Uncapped Subathon DAY 3 | !aion2gether !gamersupps !merch !throne
-- **EmikiNya** started advertising a giveaway - HEYYYYYY :D HAPPY NOV EMIWEEN GIVEAWAY !! ^^ yappa & league >:3
-- **izzylovesushi** started advertising a giveaway - happy chewsday :)  { PLUS PROGRAM 17/100 }🍂UR FAV LATINA STONER🍂 // ↪ !giveaway !plus !socials ↩
-- **cshellyy** started advertising a giveaway - i haven't de-halloweenified my stream but lets chit chat and do giveaway! :D
-- **RedCloud** started advertising a giveaway - LEARNING TFT 😤 WoW FOREVER FRIEND CODE !GIVEAWAY 🎁 I HAVE BUTTERFLIES, FOREVER IS TOMORROW IM SO EXCITED!!! GOING ALLIAN
-- **Itsfred_ttv** started advertising a giveaway - !giveaway | NEW EMOTES! | VAULT DAY HYPE DAY | Waiting for the WoW Forever Launch!
+- **phraeya** started advertising a giveaway - Giveaway for 7 days game time in WoW Forever, !Ticket to enter :) Winner pulled every hour.  WILL WE GET INTO THE SERVER
+- **ShiraSundering** started advertising a giveaway - [!giveaway] [EN]💚[She/Her]💚final fantasy fox frolics in forever | WORLD OF WARCRAFT: FOREVER w/ @anura @katrean | 18+ !d
+- **0middle** started advertising a giveaway - 🔴LIVE ON🔴YOOO IM HOOKEDDD➤ Get Tickets To Win The Terrifier dlc For Free🎁 !giveaway🟢!discord🟢!youtube🟢
+- **parodyparroty** started advertising a giveaway and is carrying code GIVEAWAY - !CODE GIVEAWAY! Big Buno jumps into Azeroth!~ | !discord
+- **TheDreamingMan** started advertising a giveaway and is carrying code GIVEAWAY - WoW forever today! Code Giveaway! | 30 avg viewer goal <3
+- **Monelley** started advertising a giveaway - WERE IN...chatting n yapping | GIVEAWAY !enter to receive a friend code for wow forever | [18+] | !socials
+- **GhoulxGhoul** started advertising a giveaway - Giveaway Codes to try WoWF Free [DROPS] WoW Forever Waiting Room - !Cards FREE GAME! - !discord - !GG drink the koolaid
+- **Captain_Havelock_VT** started advertising a giveaway - HAPPY BIRTHDAY RIMWORLD!| Rimworld Giveaway! |
+- **PDGrimm** started advertising a giveaway and is carrying code GIVEAWAY - 👽ITS HAPPENING! | WOW FOREVER LAUNCH DAY | 7 DAY CODE GIVEAWAY | LONG STREAM | SONG REQUESTS!👽
 
 ## Score moves
-- Hezkezl: 28 -> 46 (up), 23 avg viewers, 3 days live
-- EmikiNya: 37 -> 54 (up), 106.7 avg viewers, 3 days live
-- cshellyy: 30 -> 47 (up), 24.7 avg viewers, 3 days live
-- ryvitt_games: 42 -> 58 (up), 12 avg viewers, 7 days live
-- xX_TEMPLAR_Xx_1: 41 -> 57 (up), 5.7 avg viewers, 3 days live
-- izzylovesushi: 32 -> 48 (up), 14.8 avg viewers, 5 days live
-- RedCloud: 30 -> 46 (up), 13.4 avg viewers, 5 days live
-- Itsfred_ttv: 30 -> 46 (up), 14.5 avg viewers, 4 days live
-- policemannss: 42 -> 57 (up), 84.5 avg viewers, 4 days live
-- BonnieBolette: 35 -> 50 (up), 32.7 avg viewers, 3 days live
-- Slay3K: 27 -> 42 (up), 70 avg viewers, 3 days live
-- guckyishere: 48 -> 62 (up), 24.6 avg viewers, 5 days live
-- Lilo3t: 59 -> 72 (up), 20 avg viewers, 4 days live
-- EchoheartsLament: 46 -> 58 (up), 20.7 avg viewers, 3 days live
-- Queenie: 44 -> 56 (up), 58.8 avg viewers, 4 days live
+- parodyparroty: 32 -> 54 (up), 13 avg viewers, 4 days live
+- PDGrimm: 23 -> 45 (up), 9 avg viewers, 3 days live
+- TheDreamingMan: 31 -> 52 (up), 21.5 avg viewers, 4 days live
+- atalex_: 38 -> 58 (up), 30 avg viewers, 3 days live
+- phraeya: 42 -> 60 (up), 17.5 avg viewers, 4 days live
+- Monelley: 34 -> 51 (up), 11.5 avg viewers, 4 days live
+- Captain_Havelock_VT: 30 -> 47 (up), 11 avg viewers, 4 days live
+- ShiraSundering: 41 -> 57 (up), 16.8 avg viewers, 4 days live
+- 0middle: 38 -> 54 (up), 8.3 avg viewers, 3 days live
+- orchitea: 36 -> 52 (up), 31.7 avg viewers, 3 days live
+- CelestialAphelion: 44 -> 56 (up), 24 avg viewers, 4 days live
+- GhoulxGhoul: 38 -> 50 (up), 108.8 avg viewers, 4 days live
+- DarkDevil26: 35 -> 47 (up), 19.2 avg viewers, 4 days live
+- felinaut: 57 -> 68 (up), 23.7 avg viewers, 3 days live
+- facewarm: 41 -> 52 (up), 27.6 avg viewers, 5 days live
 
-## Dropped off (361)
-AdaKoeia, adrianrage, aeirdfv11, AeroRaiser, Agent_rebels, Amaris_Azul, Amefloof, Amer, ametkin, arae_51, arieniece, AruSilverfang, ArzenVT, Ashlee_FL, astraldyad, astroscave, aydenboy500, BabyCakesTTV, batmandnd, BattleBilll, BecsDee, bemoir, BerryKate28, Besmol, bisket72789, bizbee_gaming, BlackRamGXGaming, BoostedStache, BreadBanditVT, bri_breezy_, BuckIsland, BygTymeGameZ, CakeGameLady, caliburny_tv, calimitystwitch, CallMeKimbo_, camazaa, CattitudeTV, chachalove70, chanovaa
+## Dropped off (379)
+2kkarla, 3nok, 7zsullymc, 99PCTGOD, aBakedPotat0420, acegoku123, acerbase12, Adeli3, Alchamee, AliceLonerGirl, AmicuNoa, arcticknuckles, ASaltyRat, asm_richie_rich, Atlyellowflash, AugustIsNow, avisern, bad3116, badchick719, BambooBexi, BasedHedgehog, bbydollval, BeeHyper_, BellaLessai, BigTimmuh, Bijouu, BirdFurgeson, Bitcousin, bobakais, Bormethius, Bouncy2D, BozGS, brizzybrittgaming, bubbly_nuggets_, caligator_luv, caseyroo, CbasAlii, CelesAngelVT, chaarmyy_, ChimKicks
