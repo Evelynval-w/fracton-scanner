@@ -1,11 +1,11 @@
-Shortlist is now 12607 streamers: 2129 new since the last scan, 9 showing new giveaway or sponsor activity.
+Shortlist is now 14332 streamers: 2094 new since the last scan, 10 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[Oogli](https://twitch.tv/oogli)** - 72/100, US/CA?, 722 followers, 61.5 avg viewers, 8.52% engagement - runs giveaways, code OOGLI
-- **[violabunnie](https://twitch.tv/violabunnie)** - 65/100, UK?, 230 followers, 22.5 avg viewers, 9.78% engagement
-- **[otherdruids](https://twitch.tv/otherdruids)** - 65/100, UK, 104 followers, 23.5 avg viewers, 22.6% engagement
-- **[5ithzOg](https://twitch.tv/5ithzog)** - 65/100, UK?, 132 followers, 10.4 avg viewers, 7.88% engagement - runs giveaways
-- **[scullspy](https://twitch.tv/scullspy)** - 65/100, US, 238 followers, 58 avg viewers, 24.37% engagement
+- **[Jermdoggydogg](https://twitch.tv/jermdoggydogg)** - 75/100, US, 418 followers, 40.5 avg viewers, 9.69% engagement - runs giveaways
+- **[wam4bam](https://twitch.tv/wam4bam)** - 69/100, US, 109 followers, 10.5 avg viewers, 9.63% engagement - runs giveaways
+- **[itslilpicklett](https://twitch.tv/itslilpicklett)** - 65/100, US, 107 followers, 11 avg viewers, 10.28% engagement - code ITSLILPICKLE
+- **[thetinytyrant420](https://twitch.tv/thetinytyrant420)** - 65/100, UK?, 274 followers, 38 avg viewers, 13.87% engagement - code THETINYTYRANT420
+- **[HeroOfTime73](https://twitch.tv/herooftime73)** - 64/100, UK?, 276 followers, 21.5 avg viewers, 7.79% engagement - runs giveaways
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
