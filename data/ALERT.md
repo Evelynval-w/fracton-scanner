@@ -1,11 +1,11 @@
-Shortlist is now 14332 streamers: 2094 new since the last scan, 10 showing new giveaway or sponsor activity.
+Shortlist is now 16032 streamers: 2020 new since the last scan, 20 showing new giveaway or sponsor activity.
 
 **Worth a look:**
 
-- **[Jermdoggydogg](https://twitch.tv/jermdoggydogg)** - 75/100, US, 418 followers, 40.5 avg viewers, 9.69% engagement - runs giveaways
-- **[wam4bam](https://twitch.tv/wam4bam)** - 69/100, US, 109 followers, 10.5 avg viewers, 9.63% engagement - runs giveaways
-- **[itslilpicklett](https://twitch.tv/itslilpicklett)** - 65/100, US, 107 followers, 11 avg viewers, 10.28% engagement - code ITSLILPICKLE
-- **[thetinytyrant420](https://twitch.tv/thetinytyrant420)** - 65/100, UK?, 274 followers, 38 avg viewers, 13.87% engagement - code THETINYTYRANT420
-- **[HeroOfTime73](https://twitch.tv/herooftime73)** - 64/100, UK?, 276 followers, 21.5 avg viewers, 7.79% engagement - runs giveaways
+- **[preventathon](https://twitch.tv/preventathon)** - 74/100, CA, 735 followers, 75.5 avg viewers, 10.27% engagement
+- **[gachaponpins](https://twitch.tv/gachaponpins)** - 70/100, UK?, 398 followers, 45.8 avg viewers, 11.51% engagement
+- **[mrdrcooper](https://twitch.tv/mrdrcooper)** - 70/100, UK?, 442 followers, 50.5 avg viewers, 11.43% engagement - runs giveaways
+- **[daammngoddess](https://twitch.tv/daammngoddess)** - 67/100, UK?, 1,133 followers, 76.6 avg viewers, 6.76% engagement - code TO
+- **[UnbeatableMusic](https://twitch.tv/unbeatablemusic)** - 64/100, UK, 292 followers, 38.5 avg viewers, 13.18% engagement
 
 Full notes in `data/LATEST.md`; full data in the Excel pack and the board.
